@@ -3,17 +3,21 @@
 """把「豆包朗读用的文稿」与「阿里云 Paraformer 识别结果」做字符级对齐，
 输出 文稿每个汉字 -> 音频时间(ms) 的映射，供后续切分 15 段图片时间轴使用。
 
-用法: python3 bin/align_text.py <文稿.txt> <transcription.json> <out_prefix>
+用法: python3 bin/align_text.py --project projects/<名>
 
-产出:
-  <out_prefix>.char2time.tsv   文稿字符级：序号/字符/时间 ms（标点锚在相邻实字上）
-  <out_prefix>.doc.txt         归一化后的文稿纯文本（无空白，保留标点）
-  <out_prefix>.report.txt      对齐统计（未匹配块、相似度）
+产出（都在 <out>/ 下）:
+  align.char2time.tsv   文稿字符级：序号/字符/时间 ms（标点锚在相邻实字上）
+  align.doc.txt         归一化后的文稿纯文本（无空白，保留标点）
+  align.report.txt      对齐统计（未匹配块、相似度）
 """
 import difflib
 import json
+import os
 import re
 import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import config  # noqa: E402
 
 
 def norm_asr_words(tr):
@@ -36,7 +40,15 @@ def norm_doc(text):
 
 
 def main():
-    doc_path, asr_path, prefix = sys.argv[1], sys.argv[2], sys.argv[3]
+    args = config.parse_args(__doc__, extra=[
+        (("--asr",), {"default": None, "help": "缺省 <out>/asr/transcription.json"}),
+    ])
+    cfg, _ = config.read_project(args.project)
+    out = cfg["_out"]
+    os.makedirs(out, exist_ok=True)
+    doc_path = cfg["_doc"]
+    asr_path = args.asr or os.path.join(out, "asr", "transcription.json")
+    prefix = os.path.join(out, "align")
     doc_raw = open(doc_path, encoding="utf-8").read()
     doc = norm_doc(doc_raw)
     tr = json.load(open(asr_path, encoding="utf-8"))

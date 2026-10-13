@@ -1,5 +1,18 @@
-# 产物与中间件
+# 中间产物 / 大件：不入仓
+out/
+segfr/
+render/
+frames/
+diff/
 work/
 *.mp4
-*.jpg
 *.wav
+*.m4a
+*.ts
+
+# 例外：样例项目的插图入仓（复用价值最高的部分），out/ 里的对账图也留
+!projects/*/images/*.jpg
+!projects/*/out/分镜对账图.jpg
+source.*
+__pycache__/
+*.pyc

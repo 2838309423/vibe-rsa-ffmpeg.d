@@ -1,42 +1,53 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""把 15 张 1535x2732 的图按目标画幅 cover-crop 成偶数尺寸（默认 886x1920），供 libx264 编码。
+"""把插图按目标画幅 cover-crop（等比放大到盖住画幅再居中裁），供 libx264 编码。
 
-用法: python3 bin/prep_frames.py <segments.json> <images_dir> <out_dir> [W] [H]
-图片可读性优先：先用 ffmpeg 缩放+居中裁剪（zscale 缺失时退回 scale+crop）。
+用法: python3 bin/prep_frames.py --project projects/<名>
 
-产出: <out_dir>/seg01.png ... seg15.png （尺寸 W x H）
+为什么需要这一步：libx264 要求 yuv420p 的宽高均为偶数，而插图原始尺寸（如 1535x2732）是奇数；
+直接用 -loop 1 喂原图会报 width not divisible by 2。顺带把画幅统一成配置里的 WxH。
+
+产出: <out>/segfr/segNN.png（尺寸 = config.video.width x height）
 """
-import json
 import os
 import subprocess
 import sys
 
-FFMPEG = os.environ.get(
-    "FFMPEG", "/home/longxia/toolchain/ffmpeg/ffmpeg-7.0.2-amd64-static/ffmpeg")
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import config  # noqa: E402
+
+FFMPEG = os.environ.get("FFMPEG") or "ffmpeg"
 
 
 def cover_crop(src, dst, w, h):
-    # 覆盖式：等比缩放到完全盖住画幅，再居中裁剪
-    vf = ("scale=%d:%d:flags=lanczos,crop=%d:%d,setsar=1" % (w, h, w, h))
-    cmd = [FFMPEG, "-hide_banner", "-loglevel", "error", "-y", "-i", src,
-           "-vf", vf, "-frames:v", "1", dst]
-    subprocess.run(cmd, check=True)
+    vf = "scale=%d:%d:flags=lanczos,crop=%d:%d,setsar=1" % (w, h, w, h)
+    subprocess.run([FFMPEG, "-hide_banner", "-loglevel", "error", "-y", "-i", src,
+                    "-vf", vf, "-frames:v", "1", dst], check=True)
 
 
 def main():
-    plan_path, img_dir, out_dir = sys.argv[1], sys.argv[2], sys.argv[3]
-    W = int(sys.argv[4]) if len(sys.argv) > 4 else 886
-    H = int(sys.argv[5]) if len(sys.argv) > 5 else 1920
+    args = config.parse_args(__doc__, extra=[
+        (("--plan",), {"default": None, "help": "缺省 <out>/plan.json"}),
+        (("--outdir",), {"default": None, "help": "缺省 <out>/segfr"}),
+    ])
+    cfg, _ = config.read_project(args.project)
+    out = cfg["_out"]
+    plan_path = args.plan or os.path.join(out, "plan.json")
+    segfr = args.outdir or os.path.join(out, "segfr")
+    w, h = int(cfg["video"]["width"]), int(cfg["video"]["height"])
+    os.makedirs(segfr, exist_ok=True)
+
+    import json
     plan = json.load(open(plan_path, encoding="utf-8"))
-    os.makedirs(out_dir, exist_ok=True)
     for p in plan:
-        src = os.path.join(img_dir, p["image"])
-        dst = os.path.join(out_dir, "seg%02d.png" % p["idx"])
-        cover_crop(src, dst, W, H)
-        sz = os.path.getsize(dst)
-        print("%-22s -> %s  %dx%d  %.0f KB" % (p["image"], os.path.basename(dst), W, H, sz / 1024))
-    print("共 %d 张 -> %s" % (len(plan), out_dir))
+        src = os.path.join(cfg["_images"], p["image"])
+        if not os.path.isfile(src):
+            raise SystemExit("缺图: %s" % src)
+        dst = os.path.join(segfr, "seg%02d.png" % p["idx"])
+        cover_crop(src, dst, w, h)
+        print("%-24s -> %s  %dx%d  %.0f KB" % (p["image"], os.path.basename(dst), w, h,
+                                               os.path.getsize(dst) / 1024))
+    print("共 %d 张 -> %s" % (len(plan), segfr))
 
 
 main()
