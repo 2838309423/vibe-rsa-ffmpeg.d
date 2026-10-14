@@ -10,6 +10,10 @@ work/
 *.m4a
 *.ts
 
+# Poly Haven 素材本体不入仓（~86MB，清单在 room/blueprint.json 的 kind:"ph" 条目），
+# clone 后一条命令幂等重建：python3 room/ph_download.py --from-blueprint room/blueprint.json
+room/assets/
+
 # 例外：样例项目的插图入仓（复用价值最高的部分），out/ 里的对账图也留
 !projects/*/images/*.jpg
 !projects/*/out/分镜对账图.jpg

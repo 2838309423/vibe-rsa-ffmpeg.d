@@ -1,0 +1,69 @@
+{
+  "_说明": "断舍离房间蓝图 v1（卧室起步，4.6×3.6m）。坐标系：x 东西(-2.3..2.3)，y 南北(-1.8..1.8)，z 上。窗在南墙(S)，门在东墙(E)。state A=乱序态，B=整洁态；static=两态共有。摆放条目字段：kind(ph|proc)、id、loc[x,y] 地面坐标、rot=z轴旋转度、s=等比缩放、z=底部抬升、tilt=[rx,ry] 度、seed/n 仅程序化道具用。",
+  "room": {
+    "w": 4.6, "d": 3.6, "h": 2.7, "wall_t": 0.12,
+    "window": {"wall": "S", "cx": 0.9, "w": 1.6, "z0": 0.9, "z1": 2.2},
+    "door": {"wall": "E", "cy": -0.9, "w": 0.9, "z1": 2.05}
+  },
+  "assets_root": "assets/ph",
+  "cameras": {
+    "wide": {"loc": [1.2, -1.5, 1.6], "look_at": [-0.9, 1.0, 0.85], "lens": 24},
+    "door": {"loc": [-1.95, -1.5, 1.58], "look_at": [1.3, 0.9, 0.9], "lens": 24}
+  },
+  "lighting": {
+    "day": {
+      "sun_energy": 4.0, "sun_rot": [55, 0, -20],
+      "world_color": [0.55, 0.68, 0.85], "world_strength": 0.5,
+      "window_fill": 70, "window_fill_color": [0.85, 0.9, 1.0],
+      "lamp_energy": 0, "ceil_energy": 0
+    },
+    "evening": {
+      "sun_energy": 0.12, "sun_rot": [70, 0, -45],
+      "world_color": [0.05, 0.06, 0.1], "world_strength": 0.25,
+      "window_fill": 6, "window_fill_color": [0.6, 0.7, 0.9],
+      "lamp_energy": 45, "ceil_energy": 12
+    }
+  },
+  "static": [
+    {"kind": "proc", "id": "bed", "loc": [-1.3, 0.72], "rot": 0, "w": 1.5, "l": 2.0},
+    {"kind": "ph", "id": "painted_wooden_nightstand", "loc": [-0.2, 1.5], "rot": 0},
+    {"kind": "proc", "id": "wardrobe", "loc": [1.3, 1.44], "rot": 0, "w": 1.7, "d": 0.62, "h": 2.15},
+    {"kind": "proc", "id": "floor_lamp", "loc": [2.02, 0.65], "rot": 0},
+    {"kind": "ph", "id": "Shelf_01", "loc": [-2.08, -0.55], "rot": 90},
+    {"kind": "ph", "id": "GreenChair_01", "loc": [-1.5, -1.0], "rot": 40},
+    {"kind": "ph", "id": "modern_coffee_table_01", "loc": [0.1, -0.5], "rot": 0},
+    {"kind": "proc", "id": "rug", "loc": [0.15, -0.35], "rot": 0, "r": 1.0},
+    {"kind": "ph", "id": "potted_plant_01", "loc": [2.05, -1.5], "rot": 0}
+  ],
+  "states": {
+    "A": [
+      {"kind": "ph", "id": "cardboard_box_01", "loc": [0.75, -1.2], "rot": 18},
+      {"kind": "ph", "id": "cardboard_box_01", "loc": [1.35, -0.62], "rot": -38, "s": 0.9},
+      {"kind": "ph", "id": "cardboard_box_01", "loc": [-0.5, -1.38], "rot": 84, "s": 1.05},
+      {"kind": "ph", "id": "trashbag", "loc": [-0.12, -1.1], "rot": 25},
+      {"kind": "ph", "id": "plastic_crate_01", "loc": [0.38, 0.32], "rot": 12},
+      {"kind": "ph", "id": "throw_pillows_01", "loc": [-0.78, 0.42], "rot": 70, "tilt": [14, 0]},
+      {"kind": "ph", "id": "throw_pillows_01", "loc": [-1.32, -0.05], "rot": 30, "tilt": [10, 0], "z": 0.47},
+      {"kind": "ph", "id": "binder_notebook", "loc": [0.78, 0.12], "rot": 100},
+      {"kind": "ph", "id": "binder_notebook", "loc": [0.5, -0.12], "rot": -55},
+      {"kind": "ph", "id": "book_encyclopedia_set_01", "loc": [-1.12, -1.52], "rot": 15},
+      {"kind": "ph", "id": "vintage_suitcase", "loc": [1.95, 0.1], "rot": -80},
+      {"kind": "ph", "id": "plastic_broom", "loc": [2.18, 1.02], "rot": 15, "tilt": [0, -10]},
+      {"kind": "proc", "id": "clothes_pile", "loc": [-0.3, 0.85], "rot": 15, "seed": 7, "n": 5},
+      {"kind": "proc", "id": "clothes_pile", "loc": [-1.35, 0.5], "rot": 40, "seed": 3, "n": 4, "z": 0.47},
+      {"kind": "proc", "id": "books_scatter", "loc": [1.05, -1.3], "rot": 0, "seed": 11, "n": 5}
+    ],
+    "B": [
+      {"kind": "ph", "id": "cardboard_box_01", "loc": [1.0, -1.5], "rot": 2},
+      {"kind": "ph", "id": "cardboard_box_01", "loc": [1.0, -1.5], "rot": -6, "s": 0.9, "z": 0.52},
+      {"kind": "ph", "id": "throw_pillows_01", "loc": [-1.62, 1.2], "rot": 5, "tilt": [8, 0], "z": 0.47},
+      {"kind": "ph", "id": "throw_pillows_01", "loc": [-1.05, 1.2], "rot": -4, "tilt": [6, 0], "z": 0.47},
+      {"kind": "ph", "id": "throw_pillows_01", "loc": [-1.5, -1.02], "rot": 40, "z": 0.32},
+      {"kind": "ph", "id": "binder_notebook", "loc": [-0.2, 1.5], "rot": 8, "z": 0.56},
+      {"kind": "ph", "id": "book_encyclopedia_set_01", "loc": [0.1, -0.5], "rot": 90, "z": 0.46},
+      {"kind": "ph", "id": "vintage_suitcase", "loc": [1.3, 1.45], "rot": 4, "z": 2.16},
+      {"kind": "ph", "id": "plastic_broom", "loc": [2.2, -0.25], "rot": -12, "tilt": [0, -10]},
+      {"kind": "ph", "id": "wicker_basket_01", "loc": [0.62, 0.9], "rot": 0}
+    ]
+  }
+}
