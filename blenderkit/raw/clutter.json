@@ -1,0 +1,2388 @@
+[
+ {
+  "pk": 131659,
+  "url": "https://www.blenderkit.com/api/v1/assets/994f76b2-e72e-4bf2-9a3c-651dff9bcd0b/",
+  "id": "994f76b2-e72e-4bf2-9a3c-651dff9bcd0b",
+  "assetBaseId": "4fdb482d-2642-4388-ae57-8097afa99519",
+  "versionNumber": 1,
+  "author": {
+   "id": 83016,
+   "firstName": "Paweł",
+   "lastName": "Wałasiewicz",
+   "gravatarHash": "bcf5040f25a60faabf113e84cff5924e",
+   "avatar128": "/avatar-redirect/666df5f1-1eed-43d5-ba7b-a8fde4aaf7b2/128/",
+   "avatar256": "/avatar-redirect/666df5f1-1eed-43d5-ba7b-a8fde4aaf7b2/256/",
+   "avatar512": "/avatar-redirect/666df5f1-1eed-43d5-ba7b-a8fde4aaf7b2/512/",
+   "aboutMe": "I am a hobbyist photographer, coder, DIY tinkerer, and 3D designer from Poland. I enjoy most the work that combines various technical and creative fields, such as photogrammetry and HDRI capture, but I'm also proficient in standard modeling methods.",
+   "aboutMeUrl": "https://www.blendkit.com/asset-gallery?query=author_id:83016",
+   "fullName": "Paweł Wałasiewicz",
+   "socialNetworks": []
+  },
+  "name": "Folded Clothes Stack",
+  "displayName": "Folded Clothes Stack",
+  "description": "Stack of folded clothes photoscanned and remeshed into medium poly with baked 4k normal and diffuse maps.",
+  "descriptionHtml": "<p>Stack of folded clothes photoscanned and remeshed into medium poly with baked 4k normal and diffuse maps.</p>",
+  "assetType": "model",
+  "category": "decoration",
+  "isFree": true,
+  "isForSale": false,
+  "basePrice": null,
+  "tags": [
+   "Folded",
+   "Clothes",
+   "Stack",
+   "sweater",
+   "hoodie",
+   "wear",
+   "photoscan",
+   "photogrammetry"
+  ],
+  "license": "royalty_free",
+  "sourceAppName": "blender",
+  "sourceAppVersion": "4.3.2",
+  "addonVersion": "3.14.0",
+  "created": "2025-02-18T14:35:40.418949+01:00",
+  "lastUserInteraction": "2025-02-18T14:36:13.213078+01:00",
+  "verificationStatus": "validated",
+  "isPrivate": false,
+  "files": [
+   {
+    "fileType": "blend",
+    "id": 584380,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/64e12367-9401-4357-96cb-d15dbe96824d/",
+    "uuid": "64e12367-9401-4357-96cb-d15dbe96824d",
+    "created": "2025-02-18T14:36:11.478190+01:00",
+    "isThumbnail": false,
+    "modified": "2025-02-21T13:11:54.166322+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 54065169,
+    "isFeatured": false,
+    "filename": "assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/blend_6307950e-075c-415b-ad59-61edfc903a75.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "gltf",
+    "id": 587818,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/b182ca04-8d34-418a-8d39-deed1d7b395e/",
+    "uuid": "b182ca04-8d34-418a-8d39-deed1d7b395e",
+    "created": "2025-02-21T13:11:10.744571+01:00",
+    "isThumbnail": false,
+    "modified": "2025-02-21T13:11:54.720675+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 2079632,
+    "isFeatured": false,
+    "filename": "assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/gltf_93a6a002-ffcd-49fe-b7e7-e5ba0dbeb841.glb",
+    "flexFactor": null
+   },
+   {
+    "fileType": "gltf_godot",
+    "id": 587819,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/4e300fb9-bd06-4822-801c-63aa8e0cb4bf/",
+    "uuid": "4e300fb9-bd06-4822-801c-63aa8e0cb4bf",
+    "created": "2025-02-21T13:11:13.342486+01:00",
+    "isThumbnail": false,
+    "modified": "2025-02-21T13:11:55.074983+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 2674620,
+    "isFeatured": false,
+    "filename": "assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/gltf_godot_e31b539c-b2d6-475b-9ec0-37c7eebffcba.glb",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_0_5K",
+    "id": 587822,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/304d0cc6-1935-4326-9a0e-b7d051aae76b/",
+    "uuid": "304d0cc6-1935-4326-9a0e-b7d051aae76b",
+    "created": "2025-02-21T13:11:23.028341+01:00",
+    "isThumbnail": false,
+    "modified": "2025-02-21T13:11:55.367078+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 2151812,
+    "isFeatured": false,
+    "filename": "assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/resolution_0_5K_8b12e31c-6250-47e1-aec5-8d600c6a184b.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_1K",
+    "id": 587821,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/86f87349-cdcc-447a-9fb8-ef4c356683dc/",
+    "uuid": "86f87349-cdcc-447a-9fb8-ef4c356683dc",
+    "created": "2025-02-21T13:11:21.120513+01:00",
+    "isThumbnail": false,
+    "modified": "2025-02-21T13:11:56.073432+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 5155357,
+    "isFeatured": false,
+    "filename": "assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/resolution_1K_9c57a8e0-d672-47d9-a421-ba0c36587718.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_2K",
+    "id": 587820,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/7023b5bc-bd14-4faa-bba2-82272dec6e52/",
+    "uuid": "7023b5bc-bd14-4faa-bba2-82272dec6e52",
+    "created": "2025-02-21T13:11:19.173886+01:00",
+    "isThumbnail": false,
+    "modified": "2025-02-21T13:11:56.842775+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 16507290,
+    "isFeatured": false,
+    "filename": "assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/resolution_2K_f581c976-e529-41e2-9786-9e008726c264.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "thumbnail",
+    "id": 584379,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/ae42e9d5-963c-49d3-9dc9-376613f8bf27/",
+    "uuid": "ae42e9d5-963c-49d3-9dc9-376613f8bf27",
+    "fileThumbnail": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.96x96_q85_crop-%2C.jpg",
+    "fileThumbnailLarge": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.1024x1024_q85_crop-%2C.jpg",
+    "created": "2025-02-18T14:35:44.238599+01:00",
+    "isThumbnail": true,
+    "modified": "2025-12-23T01:37:37.668785+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 789642,
+    "width": 3000,
+    "height": 3000,
+    "isFeatured": false,
+    "filename": "assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg",
+    "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.256x256_q85_crop-%2C.jpg",
+    "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.512x512_q85_crop-%2C.jpg",
+    "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.1024x1024_q85_crop-%2C.jpg",
+    "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.2048x2048_q85_crop-%2C.jpg",
+    "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.256x256_q85.jpg",
+    "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.512x512_q85.jpg",
+    "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.1024x1024_q85.jpg",
+    "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.2048x2048_q85.jpg",
+    "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.256x256_q85_crop-%2C.jpg.webp?webp_generated=1766607974",
+    "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.512x512_q85_crop-%2C.jpg.webp?webp_generated=1766607974",
+    "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1766607974",
+    "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1766607974",
+    "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.256x256_q85.jpg.webp?webp_generated=1766607974",
+    "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.512x512_q85.jpg.webp?webp_generated=1766607974",
+    "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.1024x1024_q85.jpg.webp?webp_generated=1766607974",
+    "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.2048x2048_q85.jpg.webp?webp_generated=1766607974",
+    "thumbnailSocialUrl": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.1200x630_q85_background-black.jpg",
+    "animationUrl": null,
+    "flexFactor": null
+   }
+  ],
+  "filesSize": 83423522,
+  "showMarketingLabels": true,
+  "webpGeneratedTimestamp": 1766607974,
+  "score": 400.0,
+  "ratingsMedian": {
+   "bookmarks": 1.0,
+   "workingHours": 4.0,
+   "quality": 10.0,
+   "virtualPrice": null
+  },
+  "ratingsAverage": {
+   "bookmarks": 0.9791666666666666,
+   "workingHours": 4.0,
+   "quality": 10.0,
+   "virtualPrice": null
+  },
+  "ratingsCount": {
+   "bookmarks": 336,
+   "workingHours": 3,
+   "quality": 4,
+   "virtualPrice": 0
+  },
+  "ratingsSum": {
+   "bookmarks": 329.0,
+   "workingHours": 13.0,
+   "quality": 40.0,
+   "virtualPrice": null,
+   "score": 400.0
+  },
+  "pageBlocks": null,
+  "access": "free",
+  "accessLabel": "Free",
+  "videoLink": "",
+  "dictParameters": {
+   "sexualizedContent": false,
+   "joinBlenderkitDiscounts": true,
+   "addons": true,
+   "platforms": [
+    "windows-x64",
+    "macos-arm64",
+    "linux-x64",
+    "macos-x64",
+    "windows-arm64"
+   ],
+   "faceCount": 29912,
+   "textureResolutionMax": 4096,
+   "productionLevel": "finished",
+   "procedural": false,
+   "modelStyle": "realistic",
+   "condition": "new",
+   "purePbr": true,
+   "shaders": [
+    "[principled]"
+   ],
+   "pbrType": "metallic",
+   "uv": true,
+   "textureResolutionMin": 4096,
+   "engines": [
+    "[cycles]"
+   ],
+   "modifiers": [
+    "[]"
+   ],
+   "materials": [
+    "[sweater]"
+   ],
+   "rig": false,
+   "simulation": false,
+   "dimensionX": 0.4107,
+   "dimensionY": 0.298,
+   "dimensionZ": 0.1939,
+   "boundBoxMinX": -0.2063,
+   "boundBoxMinY": -0.1541,
+   "boundBoxMinZ": -0.0083,
+   "boundBoxMaxX": 0.2043,
+   "boundBoxMaxY": 0.1438,
+   "boundBoxMaxZ": 0.1856,
+   "faceCountRender": 29912,
+   "meshPolyType": "tri_dominant",
+   "manifold": false,
+   "objectCount": 2,
+   "nodeCount": 12,
+   "textureCount": 2,
+   "megapixels": 32,
+   "gltfGeneratedDate": "2025-02-21",
+   "gltfGodotGeneratedDate": "2025-02-21"
+  },
+  "lastPhotoThumbnailUpload": null,
+  "lastWireThumbnailUpload": null,
+  "lastResolutionUpload": "2025-02-21T12:11:23.028341+00:00",
+  "lastBlendUpload": "2025-02-18T13:36:11.478190+00:00",
+  "lastGltfGodotUpload": "2025-02-21T12:11:13.342486+00:00",
+  "lastThumbnailUpload": "2025-02-18T13:35:44.238599+00:00",
+  "lastAnimatedThumbnailUpload": null,
+  "lastPrxcUpload": null,
+  "lastVideoUpload": null,
+  "lastGltfUpload": "2025-02-21T12:11:10.744571+00:00",
+  "lastZipFileUpload": null,
+  "canDownload": true,
+  "canDownloadError": true,
+  "parameters": [
+   {
+    "parameterType": "sexualizedContent",
+    "value": false
+   },
+   {
+    "parameterType": "joinBlenderkitDiscounts",
+    "value": true
+   },
+   {
+    "parameterType": "addons",
+    "value": true
+   },
+   {
+    "parameterType": "platforms",
+    "value": [
+     "windows-x64",
+     "macos-arm64",
+     "linux-x64",
+     "macos-x64",
+     "windows-arm64"
+    ]
+   },
+   {
+    "parameterType": "faceCount",
+    "value": 29912
+   },
+   {
+    "parameterType": "textureResolutionMax",
+    "value": 4096
+   },
+   {
+    "parameterType": "productionLevel",
+    "value": "finished"
+   },
+   {
+    "parameterType": "procedural",
+    "value": false
+   },
+   {
+    "parameterType": "modelStyle",
+    "value": "realistic"
+   },
+   {
+    "parameterType": "condition",
+    "value": "new"
+   },
+   {
+    "parameterType": "purePbr",
+    "value": true
+   },
+   {
+    "parameterType": "shaders",
+    "value": [
+     "[principled]"
+    ]
+   },
+   {
+    "parameterType": "pbrType",
+    "value": "metallic"
+   },
+   {
+    "parameterType": "uv",
+    "value": true
+   },
+   {
+    "parameterType": "textureResolutionMin",
+    "value": 4096
+   },
+   {
+    "parameterType": "engines",
+    "value": [
+     "[cycles]"
+    ]
+   },
+   {
+    "parameterType": "modifiers",
+    "value": [
+     "[]"
+    ]
+   },
+   {
+    "parameterType": "materials",
+    "value": [
+     "[sweater]"
+    ]
+   },
+   {
+    "parameterType": "rig",
+    "value": false
+   },
+   {
+    "parameterType": "simulation",
+    "value": false
+   },
+   {
+    "parameterType": "dimensionX",
+    "value": 0.4107
+   },
+   {
+    "parameterType": "dimensionY",
+    "value": 0.298
+   },
+   {
+    "parameterType": "dimensionZ",
+    "value": 0.1939
+   },
+   {
+    "parameterType": "boundBoxMinX",
+    "value": -0.2063
+   },
+   {
+    "parameterType": "boundBoxMinY",
+    "value": -0.1541
+   },
+   {
+    "parameterType": "boundBoxMinZ",
+    "value": -0.0083
+   },
+   {
+    "parameterType": "boundBoxMaxX",
+    "value": 0.2043
+   },
+   {
+    "parameterType": "boundBoxMaxY",
+    "value": 0.1438
+   },
+   {
+    "parameterType": "boundBoxMaxZ",
+    "value": 0.1856
+   },
+   {
+    "parameterType": "faceCountRender",
+    "value": 29912
+   },
+   {
+    "parameterType": "meshPolyType",
+    "value": "tri_dominant"
+   },
+   {
+    "parameterType": "manifold",
+    "value": false
+   },
+   {
+    "parameterType": "objectCount",
+    "value": 2
+   },
+   {
+    "parameterType": "nodeCount",
+    "value": 12
+   },
+   {
+    "parameterType": "textureCount",
+    "value": 2
+   },
+   {
+    "parameterType": "megapixels",
+    "value": 32
+   },
+   {
+    "parameterType": "gltfGeneratedDate",
+    "value": "2025-02-21"
+   },
+   {
+    "parameterType": "gltfGodotGeneratedDate",
+    "value": "2025-02-21"
+   }
+  ],
+  "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.256x256_q85_crop-%2C.jpg",
+  "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.512x512_q85_crop-%2C.jpg",
+  "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.1024x1024_q85_crop-%2C.jpg",
+  "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.2048x2048_q85_crop-%2C.jpg",
+  "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.256x256_q85.jpg",
+  "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.512x512_q85.jpg",
+  "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.1024x1024_q85.jpg",
+  "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.2048x2048_q85.jpg",
+  "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.256x256_q85_crop-%2C.jpg.webp?webp_generated=1766607974",
+  "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.512x512_q85_crop-%2C.jpg.webp?webp_generated=1766607974",
+  "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1766607974",
+  "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1766607974",
+  "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.256x256_q85.jpg.webp?webp_generated=1766607974",
+  "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.512x512_q85.jpg.webp?webp_generated=1766607974",
+  "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.1024x1024_q85.jpg.webp?webp_generated=1766607974",
+  "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/994f76b2e72e4bf29a3c651dff9bcd0b/files/thumbnail_799e3a1d-5f8b-462d-a9d2-8427d5bc8411.jpg.2048x2048_q85.jpg.webp?webp_generated=1766607974"
+ },
+ {
+  "pk": 224067,
+  "url": "https://www.blenderkit.com/api/v1/assets/c11b688f-be6b-4967-b101-7042a2d432cf/",
+  "id": "c11b688f-be6b-4967-b101-7042a2d432cf",
+  "assetBaseId": "2b8e8136-7a76-467d-99f0-ad22f9b3e869",
+  "versionNumber": 1,
+  "author": {
+   "id": 376420,
+   "firstName": "Mobolaji_3D",
+   "lastName": "Dele-Adelodun",
+   "gravatarHash": "80f1707db22652f6a6ab1e8e0a88c659",
+   "avatar128": "/avatar-redirect/65e46ae8-29d0-4aec-beda-23f37fd00a1b/128/",
+   "avatar256": "/avatar-redirect/65e46ae8-29d0-4aec-beda-23f37fd00a1b/256/",
+   "avatar512": "/avatar-redirect/65e46ae8-29d0-4aec-beda-23f37fd00a1b/512/",
+   "aboutMe": "3D Environment Artist",
+   "aboutMeUrl": null,
+   "fullName": "Mobolaji_3D Dele-Adelodun",
+   "socialNetworks": [
+    {
+     "socialNetwork": {
+      "name": "Instagram",
+      "icon": "<i class=\"fab fa-instagram\" title=\"Instagram\"></i><span class=\"sr-only\">Instagram</span>",
+      "order": 3
+     },
+     "url": "https://www.instagram.com/mobolaji_3d/"
+    },
+    {
+     "socialNetwork": {
+      "name": "ArtStation",
+      "icon": "<i class=\"fab fa-artstation\" title=\"ArtStation\"></i><span class=\"sr-only\">ArtStation</span>",
+      "order": 5
+     },
+     "url": "https://www.artstation.com/mobolajidele-adelodun"
+    }
+   ]
+  },
+  "name": "Backdrop_Cloth_08",
+  "displayName": "Cloth Background Stage Right Fold",
+  "description": "A photorealistic 3D cloth backdrop featuring organic draped folds and a fine canvas texture, designed as a versatile stage for still life or product visualization",
+  "descriptionHtml": "<p>A photorealistic 3D cloth backdrop featuring organic draped folds and a fine canvas texture, designed as a versatile stage for still life or product visualization</p>",
+  "assetType": "model",
+  "category": "fabrics",
+  "isFree": true,
+  "isForSale": false,
+  "basePrice": null,
+  "tags": [
+   "backdrop",
+   "cloth",
+   "fabric",
+   "draped",
+   "background",
+   "Stilllife",
+   "studio",
+   "interior",
+   "realistic",
+   "product"
+  ],
+  "license": "royalty_free",
+  "sourceAppName": "blender",
+  "sourceAppVersion": "5.0.1",
+  "addonVersion": "3.19.2",
+  "created": "2026-05-13T00:27:59.463145+02:00",
+  "lastUserInteraction": "2026-05-13T09:09:38.143365+02:00",
+  "verificationStatus": "validated",
+  "isPrivate": false,
+  "files": [
+   {
+    "fileType": "blend",
+    "id": 1147471,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/886f132c-d822-46d7-8595-6db5619c2629/",
+    "uuid": "886f132c-d822-46d7-8595-6db5619c2629",
+    "created": "2026-06-27T09:30:12.579362+02:00",
+    "isThumbnail": false,
+    "modified": "2026-06-27T09:30:12.579378+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 71534547,
+    "isFeatured": false,
+    "filename": "assets/c11b688fbe6b4967b1017042a2d432cf/files/blend_283c2fb3-5e9d-4bca-b7cd-80949ed5753d.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "gltf",
+    "id": 1147477,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/afd6e5b8-93cf-4d51-bab6-b58226b862c9/",
+    "uuid": "afd6e5b8-93cf-4d51-bab6-b58226b862c9",
+    "created": "2026-06-27T09:30:43.160661+02:00",
+    "isThumbnail": false,
+    "modified": "2026-06-27T09:30:43.160675+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 494344,
+    "isFeatured": false,
+    "filename": "assets/c11b688fbe6b4967b1017042a2d432cf/files/gltf_a8f776b8-7c6e-4a5c-956f-fe3e0b2eb693.glb",
+    "flexFactor": null
+   },
+   {
+    "fileType": "gltf_godot",
+    "id": 1147478,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/a8e6e221-d2e3-478c-89dc-70afa330bb6d/",
+    "uuid": "a8e6e221-d2e3-478c-89dc-70afa330bb6d",
+    "created": "2026-06-27T09:30:55.979263+02:00",
+    "isThumbnail": false,
+    "modified": "2026-06-27T09:30:55.979280+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 6414820,
+    "isFeatured": false,
+    "filename": "assets/c11b688fbe6b4967b1017042a2d432cf/files/gltf_godot_107ab48c-2547-49bb-8c9d-8e02335481c0.glb",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_0_5K",
+    "id": 1147476,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/e4da570d-463f-4239-8302-d4c7011653ab/",
+    "uuid": "e4da570d-463f-4239-8302-d4c7011653ab",
+    "created": "2026-06-27T09:30:31.091703+02:00",
+    "isThumbnail": false,
+    "modified": "2026-06-27T09:30:31.091716+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 3343322,
+    "isFeatured": false,
+    "filename": "assets/c11b688fbe6b4967b1017042a2d432cf/files/resolution_0_5K_6c65a21a-47ce-4976-95e7-524accf97df8.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_1K",
+    "id": 1147475,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/bd16ac8a-f82b-40cb-b969-76739bfa3678/",
+    "uuid": "bd16ac8a-f82b-40cb-b969-76739bfa3678",
+    "created": "2026-06-27T09:30:29.442483+02:00",
+    "isThumbnail": false,
+    "modified": "2026-06-27T09:30:29.442497+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 4210371,
+    "isFeatured": false,
+    "filename": "assets/c11b688fbe6b4967b1017042a2d432cf/files/resolution_1K_e80bfaf3-6290-4aa2-bfec-0fdf3e1952c0.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_2K",
+    "id": 1147474,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/8ec69225-6adc-4617-9e25-b288147b6fc5/",
+    "uuid": "8ec69225-6adc-4617-9e25-b288147b6fc5",
+    "created": "2026-06-27T09:30:27.927860+02:00",
+    "isThumbnail": false,
+    "modified": "2026-06-27T09:30:27.927877+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 7318013,
+    "isFeatured": false,
+    "filename": "assets/c11b688fbe6b4967b1017042a2d432cf/files/resolution_2K_bd86e16b-8d3e-45de-86b9-c84cb6875761.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_4K",
+    "id": 1147473,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/5d6c4ad0-72c3-457b-ae82-9f8e99e7b62e/",
+    "uuid": "5d6c4ad0-72c3-457b-ae82-9f8e99e7b62e",
+    "created": "2026-06-27T09:30:26.157752+02:00",
+    "isThumbnail": false,
+    "modified": "2026-06-27T09:30:26.157761+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 17618666,
+    "isFeatured": false,
+    "filename": "assets/c11b688fbe6b4967b1017042a2d432cf/files/resolution_4K_ebe27891-0885-4baa-b98e-f20f5a4155e5.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "thumbnail",
+    "id": 1080710,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/f3b3a3ff-f9ec-4c7a-b2fb-067de6fd8a53/",
+    "uuid": "f3b3a3ff-f9ec-4c7a-b2fb-067de6fd8a53",
+    "fileThumbnail": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.96x96_q85_crop-%2C.jpg",
+    "fileThumbnailLarge": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.1024x1024_q85_crop-%2C.jpg",
+    "created": "2026-05-13T09:09:36.932889+02:00",
+    "isThumbnail": true,
+    "modified": "2026-05-13T09:09:36.932902+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 870090,
+    "width": 1700,
+    "height": 1700,
+    "isFeatured": false,
+    "filename": "assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg",
+    "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.256x256_q85_crop-%2C.jpg",
+    "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.512x512_q85_crop-%2C.jpg",
+    "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.1024x1024_q85_crop-%2C.jpg",
+    "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.2048x2048_q85_crop-%2C.jpg",
+    "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.256x256_q85.jpg",
+    "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.512x512_q85.jpg",
+    "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.1024x1024_q85.jpg",
+    "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.2048x2048_q85.jpg",
+    "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.256x256_q85_crop-%2C.jpg.webp?webp_generated=1778741536",
+    "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.512x512_q85_crop-%2C.jpg.webp?webp_generated=1778741536",
+    "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1778741536",
+    "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1778741536",
+    "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.256x256_q85.jpg.webp?webp_generated=1778741536",
+    "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.512x512_q85.jpg.webp?webp_generated=1778741536",
+    "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.1024x1024_q85.jpg.webp?webp_generated=1778741536",
+    "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.2048x2048_q85.jpg.webp?webp_generated=1778741536",
+    "thumbnailSocialUrl": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.1200x630_q85_background-black.jpg",
+    "animationUrl": null,
+    "flexFactor": null
+   }
+  ],
+  "filesSize": 111804173,
+  "showMarketingLabels": true,
+  "webpGeneratedTimestamp": 1778741536,
+  "score": 212.5,
+  "ratingsMedian": {
+   "bookmarks": 1.0,
+   "workingHours": 2.5,
+   "quality": 8.5,
+   "virtualPrice": null
+  },
+  "ratingsAverage": {
+   "bookmarks": 0.9693251533742331,
+   "workingHours": 2.5,
+   "quality": 8.5,
+   "virtualPrice": null
+  },
+  "ratingsCount": {
+   "bookmarks": 163,
+   "workingHours": 2,
+   "quality": 2,
+   "virtualPrice": 0
+  },
+  "ratingsSum": {
+   "bookmarks": 158.0,
+   "workingHours": 5.0,
+   "quality": 17.0,
+   "virtualPrice": null,
+   "score": 212.5
+  },
+  "pageBlocks": null,
+  "access": "free",
+  "accessLabel": "Free",
+  "videoLink": "",
+  "dictParameters": {
+   "sexualizedContent": false,
+   "joinBlenderkitDiscounts": true,
+   "addons": true,
+   "platforms": [
+    "windows-x64",
+    "macos-arm64",
+    "linux-x64",
+    "macos-x64",
+    "windows-arm64"
+   ],
+   "faceCount": 49544,
+   "textureResolutionMax": 4096,
+   "productionLevel": "finished",
+   "procedural": false,
+   "modelStyle": "realistic",
+   "condition": "new",
+   "validatedManufacturer": true,
+   "validatedManufacturerDate": "2026-05-14T06:43:09.668872+00:00",
+   "validatedManufacturerActor": "no_data",
+   "purePbr": true,
+   "shaders": [
+    "[principled]"
+   ],
+   "pbrType": "metallic",
+   "uv": true,
+   "textureResolutionMin": 4096,
+   "engines": [
+    "[cycles]"
+   ],
+   "modifiers": [
+    "[solidify subsurf]"
+   ],
+   "materials": [
+    "[fabric]"
+   ],
+   "rig": false,
+   "simulation": false,
+   "dimensionX": 1.5687,
+   "dimensionY": 0.7613,
+   "dimensionZ": 0.968,
+   "boundBoxMinX": -0.7015,
+   "boundBoxMinY": -0.4648,
+   "boundBoxMinZ": 0.0004,
+   "boundBoxMaxX": 0.8672,
+   "boundBoxMaxY": 0.2965,
+   "boundBoxMaxZ": 0.9684,
+   "faceCountRender": 396352,
+   "meshPolyType": "quad",
+   "manifold": false,
+   "objectCount": 2,
+   "nodeCount": 11,
+   "textureCount": 3,
+   "megapixels": 48,
+   "gltfGeneratedDate": "2026-06-27",
+   "gltfGodotGeneratedDate": "2026-06-27",
+   "processingDate": "2026-06-27T07:30:57.120888+00:00"
+  },
+  "lastAnimatedThumbnailUpload": null,
+  "lastVideoUpload": null,
+  "lastGltfUpload": "2026-06-27T07:30:43.160661+00:00",
+  "lastBlendUpload": "2026-06-27T07:30:12.579362+00:00",
+  "lastResolutionUpload": "2026-06-27T07:30:31.091703+00:00",
+  "lastPhotoThumbnailUpload": null,
+  "lastThumbnailUpload": "2026-05-13T07:09:36.932889+00:00",
+  "lastWireThumbnailUpload": null,
+  "lastGltfGodotUpload": "2026-06-27T07:30:55.979263+00:00",
+  "lastPrxcUpload": null,
+  "lastZipFileUpload": null,
+  "canDownload": true,
+  "canDownloadError": true,
+  "parameters": [
+   {
+    "parameterType": "sexualizedContent",
+    "value": false
+   },
+   {
+    "parameterType": "joinBlenderkitDiscounts",
+    "value": true
+   },
+   {
+    "parameterType": "addons",
+    "value": true
+   },
+   {
+    "parameterType": "platforms",
+    "value": [
+     "windows-x64",
+     "macos-arm64",
+     "linux-x64",
+     "macos-x64",
+     "windows-arm64"
+    ]
+   },
+   {
+    "parameterType": "faceCount",
+    "value": 49544
+   },
+   {
+    "parameterType": "textureResolutionMax",
+    "value": 4096
+   },
+   {
+    "parameterType": "productionLevel",
+    "value": "finished"
+   },
+   {
+    "parameterType": "procedural",
+    "value": false
+   },
+   {
+    "parameterType": "modelStyle",
+    "value": "realistic"
+   },
+   {
+    "parameterType": "condition",
+    "value": "new"
+   },
+   {
+    "parameterType": "validatedManufacturer",
+    "value": true
+   },
+   {
+    "parameterType": "validatedManufacturerDate",
+    "value": "2026-05-14T06:43:09.668872+00:00"
+   },
+   {
+    "parameterType": "validatedManufacturerActor",
+    "value": "no_data"
+   },
+   {
+    "parameterType": "purePbr",
+    "value": true
+   },
+   {
+    "parameterType": "shaders",
+    "value": [
+     "[principled]"
+    ]
+   },
+   {
+    "parameterType": "pbrType",
+    "value": "metallic"
+   },
+   {
+    "parameterType": "uv",
+    "value": true
+   },
+   {
+    "parameterType": "textureResolutionMin",
+    "value": 4096
+   },
+   {
+    "parameterType": "engines",
+    "value": [
+     "[cycles]"
+    ]
+   },
+   {
+    "parameterType": "modifiers",
+    "value": [
+     "[solidify subsurf]"
+    ]
+   },
+   {
+    "parameterType": "materials",
+    "value": [
+     "[fabric]"
+    ]
+   },
+   {
+    "parameterType": "rig",
+    "value": false
+   },
+   {
+    "parameterType": "simulation",
+    "value": false
+   },
+   {
+    "parameterType": "dimensionX",
+    "value": 1.5687
+   },
+   {
+    "parameterType": "dimensionY",
+    "value": 0.7613
+   },
+   {
+    "parameterType": "dimensionZ",
+    "value": 0.968
+   },
+   {
+    "parameterType": "boundBoxMinX",
+    "value": -0.7015
+   },
+   {
+    "parameterType": "boundBoxMinY",
+    "value": -0.4648
+   },
+   {
+    "parameterType": "boundBoxMinZ",
+    "value": 0.0004
+   },
+   {
+    "parameterType": "boundBoxMaxX",
+    "value": 0.8672
+   },
+   {
+    "parameterType": "boundBoxMaxY",
+    "value": 0.2965
+   },
+   {
+    "parameterType": "boundBoxMaxZ",
+    "value": 0.9684
+   },
+   {
+    "parameterType": "faceCountRender",
+    "value": 396352
+   },
+   {
+    "parameterType": "meshPolyType",
+    "value": "quad"
+   },
+   {
+    "parameterType": "manifold",
+    "value": false
+   },
+   {
+    "parameterType": "objectCount",
+    "value": 2
+   },
+   {
+    "parameterType": "nodeCount",
+    "value": 11
+   },
+   {
+    "parameterType": "textureCount",
+    "value": 3
+   },
+   {
+    "parameterType": "megapixels",
+    "value": 48
+   },
+   {
+    "parameterType": "gltfGeneratedDate",
+    "value": "2026-06-27"
+   },
+   {
+    "parameterType": "gltfGodotGeneratedDate",
+    "value": "2026-06-27"
+   },
+   {
+    "parameterType": "processingDate",
+    "value": "2026-06-27T07:30:57.120888+00:00"
+   }
+  ],
+  "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.256x256_q85_crop-%2C.jpg",
+  "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.512x512_q85_crop-%2C.jpg",
+  "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.1024x1024_q85_crop-%2C.jpg",
+  "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.2048x2048_q85_crop-%2C.jpg",
+  "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.256x256_q85.jpg",
+  "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.512x512_q85.jpg",
+  "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.1024x1024_q85.jpg",
+  "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.2048x2048_q85.jpg",
+  "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.256x256_q85_crop-%2C.jpg.webp?webp_generated=1778741536",
+  "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.512x512_q85_crop-%2C.jpg.webp?webp_generated=1778741536",
+  "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1778741536",
+  "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1778741536",
+  "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.256x256_q85.jpg.webp?webp_generated=1778741536",
+  "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.512x512_q85.jpg.webp?webp_generated=1778741536",
+  "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.1024x1024_q85.jpg.webp?webp_generated=1778741536",
+  "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/c11b688fbe6b4967b1017042a2d432cf/files/thumbnail_832d5384-afbb-4211-abd2-70583bed1684.jpg.2048x2048_q85.jpg.webp?webp_generated=1778741536"
+ },
+ {
+  "pk": 174881,
+  "url": "https://www.blenderkit.com/api/v1/assets/7387fcba-dfd8-4ede-b685-349be49a48ae/",
+  "id": "7387fcba-dfd8-4ede-b685-349be49a48ae",
+  "assetBaseId": "8d2ee4b4-8f15-46ee-8512-138916b0231c",
+  "versionNumber": 1,
+  "author": {
+   "id": 968201,
+   "firstName": "Priscila de Melo",
+   "lastName": "",
+   "gravatarHash": "6ef7defb16b2a913d93a06eabf7b6e14",
+   "avatar128": "/avatar-redirect/d35d31a5-4692-4d1d-80c0-74dbfa54bf22/128/",
+   "avatar256": "/avatar-redirect/d35d31a5-4692-4d1d-80c0-74dbfa54bf22/256/",
+   "avatar512": "/avatar-redirect/d35d31a5-4692-4d1d-80c0-74dbfa54bf22/512/",
+   "aboutMe": "Enthusiastic about arts related to nature and architecture.",
+   "aboutMeUrl": null,
+   "fullName": "Priscila de Melo ",
+   "socialNetworks": [
+    {
+     "socialNetwork": {
+      "name": "ArtStation",
+      "icon": "<i class=\"fab fa-artstation\" title=\"ArtStation\"></i><span class=\"sr-only\">ArtStation</span>",
+      "order": 5
+     },
+     "url": "https://www.artstation.com/priscilademelo4"
+    },
+    {
+     "socialNetwork": {
+      "name": "Instagram",
+      "icon": "<i class=\"fab fa-instagram\" title=\"Instagram\"></i><span class=\"sr-only\">Instagram</span>",
+      "order": 3
+     },
+     "url": "https://www.instagram.com/priscilademeloo"
+    }
+   ]
+  },
+  "name": "Clothes rack",
+  "displayName": "Clothes rack",
+  "description": "a beautiful clothes rack for store projects.",
+  "descriptionHtml": "<p>a beautiful clothes rack for store projects.</p>",
+  "assetType": "model",
+  "category": "shopping-retail",
+  "isFree": false,
+  "isForSale": false,
+  "basePrice": null,
+  "tags": [
+   "store",
+   "hanger",
+   "clothes",
+   "shopping",
+   "display",
+   "mall",
+   "fabric",
+   "coat",
+   "blouse",
+   "dress"
+  ],
+  "license": "royalty_free",
+  "sourceAppName": "blender",
+  "sourceAppVersion": "4.5.1",
+  "addonVersion": "3.16.1",
+  "created": "2025-09-10T03:32:29.318979+02:00",
+  "lastUserInteraction": "2025-09-10T03:33:07.010136+02:00",
+  "verificationStatus": "validated",
+  "isPrivate": false,
+  "files": [
+   {
+    "fileType": "blend",
+    "id": 812784,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/c2142bcb-00f4-4bd0-bc52-71145f02b225/",
+    "uuid": "c2142bcb-00f4-4bd0-bc52-71145f02b225",
+    "created": "2025-09-10T03:33:06.547597+02:00",
+    "isThumbnail": false,
+    "modified": "2025-09-10T03:33:06.547609+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 8389170,
+    "isFeatured": false,
+    "filename": "assets/7387fcbadfd84edeb685349be49a48ae/files/blend_49d4d436-4285-42ca-be2c-7db7ea2acdcc.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "gltf",
+    "id": 819286,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/2bb81e56-9f9a-4989-a09b-91dc15ab43c8/",
+    "uuid": "2bb81e56-9f9a-4989-a09b-91dc15ab43c8",
+    "created": "2025-09-15T17:03:18.093022+02:00",
+    "isThumbnail": false,
+    "modified": "2025-09-15T17:03:18.093039+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 1767356,
+    "isFeatured": false,
+    "filename": "assets/7387fcbadfd84edeb685349be49a48ae/files/gltf_4420dc37-a235-4c72-b450-6fbd282e1a19.glb",
+    "flexFactor": null
+   },
+   {
+    "fileType": "gltf_godot",
+    "id": 819287,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/895e501e-3b16-4379-ad81-e7cd096067ae/",
+    "uuid": "895e501e-3b16-4379-ad81-e7cd096067ae",
+    "created": "2025-09-15T17:03:23.993820+02:00",
+    "isThumbnail": false,
+    "modified": "2025-09-15T17:03:23.993834+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 3340868,
+    "isFeatured": false,
+    "filename": "assets/7387fcbadfd84edeb685349be49a48ae/files/gltf_godot_e36c3ed7-d2d6-4b4a-af38-1a90033a0da1.glb",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_0_5K",
+    "id": 819284,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/a56adc7e-9c91-462d-94da-d9fc17123188/",
+    "uuid": "a56adc7e-9c91-462d-94da-d9fc17123188",
+    "created": "2025-09-15T17:02:46.201070+02:00",
+    "isThumbnail": false,
+    "modified": "2025-09-15T17:02:46.201090+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 3489839,
+    "isFeatured": false,
+    "filename": "assets/7387fcbadfd84edeb685349be49a48ae/files/resolution_0_5K_a771c12e-03ba-4e59-89b8-713fd364980c.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_1K",
+    "id": 819283,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/f363bf04-13df-45ab-a4ee-4ec40a270c65/",
+    "uuid": "f363bf04-13df-45ab-a4ee-4ec40a270c65",
+    "created": "2025-09-15T17:02:45.434141+02:00",
+    "isThumbnail": false,
+    "modified": "2025-09-15T17:02:45.434160+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 8309597,
+    "isFeatured": false,
+    "filename": "assets/7387fcbadfd84edeb685349be49a48ae/files/resolution_1K_a0cf1902-b997-4c0a-9f09-c56e704c2b02.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "thumbnail",
+    "id": 812783,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/28df9859-ef93-40bd-90fe-d3d6bb76c686/",
+    "uuid": "28df9859-ef93-40bd-90fe-d3d6bb76c686",
+    "fileThumbnail": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.96x96_q85_crop-%2C.png",
+    "fileThumbnailLarge": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.1024x1024_q85_crop-%2C.png",
+    "created": "2025-09-10T03:32:50.052554+02:00",
+    "isThumbnail": true,
+    "modified": "2025-12-23T04:53:03.161688+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 9877033,
+    "width": 3000,
+    "height": 3000,
+    "isFeatured": false,
+    "filename": "assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png",
+    "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.256x256_q85_crop-%2C.png",
+    "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.512x512_q85_crop-%2C.png",
+    "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.1024x1024_q85_crop-%2C.png",
+    "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.2048x2048_q85_crop-%2C.png",
+    "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.256x256_q85.png",
+    "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.512x512_q85.png",
+    "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.1024x1024_q85.png",
+    "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.2048x2048_q85.png",
+    "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.256x256_q85_crop-%2C.png.webp?webp_generated=1766687087",
+    "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.512x512_q85_crop-%2C.png.webp?webp_generated=1766687087",
+    "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1766687087",
+    "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1766687087",
+    "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.256x256_q85.png.webp?webp_generated=1766687087",
+    "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.512x512_q85.png.webp?webp_generated=1766687087",
+    "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.1024x1024_q85.png.webp?webp_generated=1766687087",
+    "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.2048x2048_q85.png.webp?webp_generated=1766687087",
+    "thumbnailSocialUrl": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.1200x630_q85_background-black.jpg",
+    "animationUrl": null,
+    "flexFactor": null
+   }
+  ],
+  "filesSize": 35173863,
+  "showMarketingLabels": true,
+  "webpGeneratedTimestamp": 1766687087,
+  "score": 1800.0,
+  "ratingsMedian": {
+   "bookmarks": 1.0,
+   "workingHours": 20.0,
+   "quality": 9.0,
+   "virtualPrice": null
+  },
+  "ratingsAverage": {
+   "bookmarks": 0.9292929292929293,
+   "workingHours": 20.0,
+   "quality": 9.0,
+   "virtualPrice": null
+  },
+  "ratingsCount": {
+   "bookmarks": 99,
+   "workingHours": 1,
+   "quality": 1,
+   "virtualPrice": 0
+  },
+  "ratingsSum": {
+   "bookmarks": 92.0,
+   "workingHours": 20.0,
+   "quality": 9.0,
+   "virtualPrice": null,
+   "score": 1800.0
+  },
+  "pageBlocks": null,
+  "access": "full",
+  "accessLabel": "Full Plan",
+  "videoLink": "",
+  "dictParameters": {
+   "sexualizedContent": false,
+   "joinBlenderkitDiscounts": true,
+   "addons": true,
+   "platforms": [
+    "windows-x64",
+    "macos-arm64",
+    "linux-x64",
+    "macos-x64",
+    "windows-arm64"
+   ],
+   "faceCount": 40259,
+   "textureResolutionMax": 1024,
+   "productionLevel": "finished",
+   "procedural": false,
+   "modelStyle": "realistic",
+   "purePbr": false,
+   "shaders": [
+    "[principled]"
+   ],
+   "animated": false,
+   "uv": true,
+   "textureResolutionMin": 354,
+   "engines": [
+    "[cycles]"
+   ],
+   "modifiers": [
+    "[subsurf solidify bevel weighted normal]"
+   ],
+   "materials": [
+    "[cloth09 cloth08 cloth07 cloth06 cabide678458 cloth 05 cloth 01 cloth04 cloth02 cloth03 gold Cashmere led white]"
+   ],
+   "rig": false,
+   "simulation": false,
+   "dimensionX": 1.5661,
+   "dimensionY": 0.6459,
+   "dimensionZ": 1.7443,
+   "boundBoxMinX": 0.0,
+   "boundBoxMinY": -0.4935,
+   "boundBoxMinZ": 0.0,
+   "boundBoxMaxX": 1.5661,
+   "boundBoxMaxY": 0.1524,
+   "boundBoxMaxZ": 1.7443,
+   "faceCountRender": 245684,
+   "meshPolyType": "quad_dominant",
+   "manifold": false,
+   "objectCount": 20,
+   "nodeCount": 133,
+   "textureCount": 43,
+   "megapixels": 42,
+   "gltfGeneratedDate": "2025-09-15",
+   "gltfGodotGeneratedDate": "2025-09-15"
+  },
+  "lastAnimatedThumbnailUpload": null,
+  "lastVideoUpload": null,
+  "lastGltfUpload": "2025-09-15T15:03:18.093022+00:00",
+  "lastBlendUpload": "2025-09-10T01:33:06.547597+00:00",
+  "lastResolutionUpload": "2025-09-15T15:02:46.201070+00:00",
+  "lastPhotoThumbnailUpload": null,
+  "lastThumbnailUpload": "2025-09-10T01:32:50.052554+00:00",
+  "lastWireThumbnailUpload": null,
+  "lastGltfGodotUpload": "2025-09-15T15:03:23.993820+00:00",
+  "lastPrxcUpload": null,
+  "lastZipFileUpload": null,
+  "canDownload": false,
+  "canDownloadError": {
+   "messages": [
+    "User is anonymous"
+   ],
+   "type": "anonymous_user"
+  },
+  "parameters": [
+   {
+    "parameterType": "sexualizedContent",
+    "value": false
+   },
+   {
+    "parameterType": "joinBlenderkitDiscounts",
+    "value": true
+   },
+   {
+    "parameterType": "addons",
+    "value": true
+   },
+   {
+    "parameterType": "platforms",
+    "value": [
+     "windows-x64",
+     "macos-arm64",
+     "linux-x64",
+     "macos-x64",
+     "windows-arm64"
+    ]
+   },
+   {
+    "parameterType": "faceCount",
+    "value": 40259
+   },
+   {
+    "parameterType": "textureResolutionMax",
+    "value": 1024
+   },
+   {
+    "parameterType": "productionLevel",
+    "value": "finished"
+   },
+   {
+    "parameterType": "procedural",
+    "value": false
+   },
+   {
+    "parameterType": "modelStyle",
+    "value": "realistic"
+   },
+   {
+    "parameterType": "purePbr",
+    "value": false
+   },
+   {
+    "parameterType": "shaders",
+    "value": [
+     "[principled]"
+    ]
+   },
+   {
+    "parameterType": "animated",
+    "value": false
+   },
+   {
+    "parameterType": "uv",
+    "value": true
+   },
+   {
+    "parameterType": "textureResolutionMin",
+    "value": 354
+   },
+   {
+    "parameterType": "engines",
+    "value": [
+     "[cycles]"
+    ]
+   },
+   {
+    "parameterType": "modifiers",
+    "value": [
+     "[subsurf solidify bevel weighted normal]"
+    ]
+   },
+   {
+    "parameterType": "materials",
+    "value": [
+     "[cloth09 cloth08 cloth07 cloth06 cabide678458 cloth 05 cloth 01 cloth04 cloth02 cloth03 gold Cashmere led white]"
+    ]
+   },
+   {
+    "parameterType": "rig",
+    "value": false
+   },
+   {
+    "parameterType": "simulation",
+    "value": false
+   },
+   {
+    "parameterType": "dimensionX",
+    "value": 1.5661
+   },
+   {
+    "parameterType": "dimensionY",
+    "value": 0.6459
+   },
+   {
+    "parameterType": "dimensionZ",
+    "value": 1.7443
+   },
+   {
+    "parameterType": "boundBoxMinX",
+    "value": 0.0
+   },
+   {
+    "parameterType": "boundBoxMinY",
+    "value": -0.4935
+   },
+   {
+    "parameterType": "boundBoxMinZ",
+    "value": 0.0
+   },
+   {
+    "parameterType": "boundBoxMaxX",
+    "value": 1.5661
+   },
+   {
+    "parameterType": "boundBoxMaxY",
+    "value": 0.1524
+   },
+   {
+    "parameterType": "boundBoxMaxZ",
+    "value": 1.7443
+   },
+   {
+    "parameterType": "faceCountRender",
+    "value": 245684
+   },
+   {
+    "parameterType": "meshPolyType",
+    "value": "quad_dominant"
+   },
+   {
+    "parameterType": "manifold",
+    "value": false
+   },
+   {
+    "parameterType": "objectCount",
+    "value": 20
+   },
+   {
+    "parameterType": "nodeCount",
+    "value": 133
+   },
+   {
+    "parameterType": "textureCount",
+    "value": 43
+   },
+   {
+    "parameterType": "megapixels",
+    "value": 42
+   },
+   {
+    "parameterType": "gltfGeneratedDate",
+    "value": "2025-09-15"
+   },
+   {
+    "parameterType": "gltfGodotGeneratedDate",
+    "value": "2025-09-15"
+   }
+  ],
+  "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.256x256_q85_crop-%2C.png",
+  "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.512x512_q85_crop-%2C.png",
+  "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.1024x1024_q85_crop-%2C.png",
+  "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.2048x2048_q85_crop-%2C.png",
+  "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.256x256_q85.png",
+  "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.512x512_q85.png",
+  "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.1024x1024_q85.png",
+  "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.2048x2048_q85.png",
+  "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.256x256_q85_crop-%2C.png.webp?webp_generated=1766687087",
+  "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.512x512_q85_crop-%2C.png.webp?webp_generated=1766687087",
+  "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1766687087",
+  "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1766687087",
+  "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.256x256_q85.png.webp?webp_generated=1766687087",
+  "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.512x512_q85.png.webp?webp_generated=1766687087",
+  "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.1024x1024_q85.png.webp?webp_generated=1766687087",
+  "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/7387fcbadfd84edeb685349be49a48ae/files/thumbnail_b6365327-1ab3-4796-b63d-33951a4f4664.png.2048x2048_q85.png.webp?webp_generated=1766687087"
+ },
+ {
+  "pk": 199283,
+  "url": "https://www.blenderkit.com/api/v1/assets/5d5b1cbb-4443-40bd-9ea8-27762eed5312/",
+  "id": "5d5b1cbb-4443-40bd-9ea8-27762eed5312",
+  "assetBaseId": "8df8652c-171b-4b98-84ab-4d9158e0d4b1",
+  "versionNumber": 1,
+  "author": {
+   "id": 927057,
+   "firstName": "GL3D",
+   "lastName": "Gabriela Linhares",
+   "gravatarHash": "3b85535ce5ec13d4422ace50239f6ab0",
+   "avatar128": "/avatar-redirect/f080004b-9c40-4f5f-ac66-dd878d956498/128/",
+   "avatar256": "/avatar-redirect/f080004b-9c40-4f5f-ac66-dd878d956498/256/",
+   "avatar512": "/avatar-redirect/f080004b-9c40-4f5f-ac66-dd878d956498/512/",
+   "aboutMe": "Master in Architecture - 3D artist - scanning artist",
+   "aboutMeUrl": "https://insightz.com.br/gabils/",
+   "fullName": "GL3D Gabriela Linhares",
+   "socialNetworks": [
+    {
+     "socialNetwork": {
+      "name": "Instagram",
+      "icon": "<i class=\"fab fa-instagram\" title=\"Instagram\"></i><span class=\"sr-only\">Instagram</span>",
+      "order": 3
+     },
+     "url": "https://www.instagram.com/gl.3d"
+    },
+    {
+     "socialNetwork": {
+      "name": "ArtStation",
+      "icon": "<i class=\"fab fa-artstation\" title=\"ArtStation\"></i><span class=\"sr-only\">ArtStation</span>",
+      "order": 5
+     },
+     "url": "https://www.artstation.com/gl3dmodeling"
+    }
+   ]
+  },
+  "name": "Piled T-Shirts",
+  "displayName": "Piled T-Shirts",
+  "description": "Photogrammetry scan of two t-shirts piled together, showing layered fabric, natural wrinkles, and realistic cloth deformation. Suitable for laundry scenes, bedrooms, closets, casual interiors, and general clothing set dressing.",
+  "descriptionHtml": "<p>Photogrammetry scan of two t-shirts piled together, showing layered fabric, natural wrinkles, and realistic cloth deformation. Suitable for laundry scenes, bedrooms, closets, casual interiors, and general clothing set dressing.</p>",
+  "assetType": "model",
+  "category": "fabrics",
+  "isFree": false,
+  "isForSale": false,
+  "basePrice": null,
+  "tags": [
+   "tshirts",
+   "shirts",
+   "clothing",
+   "fabric",
+   "cloth",
+   "textile",
+   "piled",
+   "photogrammetry",
+   "scan",
+   "laundry"
+  ],
+  "license": "royalty_free",
+  "sourceAppName": "blender",
+  "sourceAppVersion": "4.1.1",
+  "addonVersion": "3.18.0",
+  "created": "2026-01-11T21:12:07.089791+01:00",
+  "lastUserInteraction": "2026-01-11T21:12:21.174732+01:00",
+  "verificationStatus": "validated",
+  "isPrivate": false,
+  "files": [
+   {
+    "fileType": "blend",
+    "id": 938954,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/fdbb38dc-486b-4204-841b-17d228e474a5/",
+    "uuid": "fdbb38dc-486b-4204-841b-17d228e474a5",
+    "created": "2026-01-11T21:12:20.704662+01:00",
+    "isThumbnail": false,
+    "modified": "2026-01-11T21:12:20.704677+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 9293460,
+    "isFeatured": false,
+    "filename": "assets/5d5b1cbb444340bd9ea827762eed5312/files/blend_1c4750a6-ec3b-48db-87f7-828578bfeb51.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "gltf",
+    "id": 940743,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/4aeaef3f-deaf-4a66-9c51-fd3fd82d5fd5/",
+    "uuid": "4aeaef3f-deaf-4a66-9c51-fd3fd82d5fd5",
+    "created": "2026-01-12T22:25:49.419150+01:00",
+    "isThumbnail": false,
+    "modified": "2026-01-12T22:25:49.419161+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 2037364,
+    "isFeatured": false,
+    "filename": "assets/5d5b1cbb444340bd9ea827762eed5312/files/gltf_c7378fd8-bbe9-4aea-87bb-54418af5870d.glb",
+    "flexFactor": null
+   },
+   {
+    "fileType": "gltf_godot",
+    "id": 940742,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/95fc8707-80bf-41a9-bee3-31eda0616a7f/",
+    "uuid": "95fc8707-80bf-41a9-bee3-31eda0616a7f",
+    "created": "2026-01-12T22:25:46.311781+01:00",
+    "isThumbnail": false,
+    "modified": "2026-01-12T22:25:46.311792+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 10663672,
+    "isFeatured": false,
+    "filename": "assets/5d5b1cbb444340bd9ea827762eed5312/files/gltf_godot_c102150b-b44f-4354-9a79-fbb0fca0bac7.glb",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_0_5K",
+    "id": 940748,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/d8cfdf0e-9cf9-4d89-8200-f1dd33ec00b1/",
+    "uuid": "d8cfdf0e-9cf9-4d89-8200-f1dd33ec00b1",
+    "created": "2026-01-12T22:25:54.654161+01:00",
+    "isThumbnail": false,
+    "modified": "2026-01-12T22:25:54.654177+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 2629695,
+    "isFeatured": false,
+    "filename": "assets/5d5b1cbb444340bd9ea827762eed5312/files/resolution_0_5K_7e4f87b1-6cf6-4634-84b5-e791e1318332.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_1K",
+    "id": 940747,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/551685af-35f5-4401-8845-143142a037d9/",
+    "uuid": "551685af-35f5-4401-8845-143142a037d9",
+    "created": "2026-01-12T22:25:52.994982+01:00",
+    "isThumbnail": false,
+    "modified": "2026-01-12T22:25:52.994993+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 2957309,
+    "isFeatured": false,
+    "filename": "assets/5d5b1cbb444340bd9ea827762eed5312/files/resolution_1K_169786ca-7918-4c79-bae3-27a519cbe0ea.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_2K",
+    "id": 940745,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/9f38f2b0-8e10-4992-974c-277d2830fa7d/",
+    "uuid": "9f38f2b0-8e10-4992-974c-277d2830fa7d",
+    "created": "2026-01-12T22:25:51.077656+01:00",
+    "isThumbnail": false,
+    "modified": "2026-01-12T22:25:51.077668+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 3998011,
+    "isFeatured": false,
+    "filename": "assets/5d5b1cbb444340bd9ea827762eed5312/files/resolution_2K_565ebbdd-cae4-4a1f-81d5-ef131079cb1a.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_4K",
+    "id": 940744,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/df9a3f15-44ea-4201-ae9a-2a581c36dc80/",
+    "uuid": "df9a3f15-44ea-4201-ae9a-2a581c36dc80",
+    "created": "2026-01-12T22:25:49.744305+01:00",
+    "isThumbnail": false,
+    "modified": "2026-01-12T22:25:49.744321+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 7493719,
+    "isFeatured": false,
+    "filename": "assets/5d5b1cbb444340bd9ea827762eed5312/files/resolution_4K_70492bb4-d64c-49dc-ae87-24223f7500de.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "thumbnail",
+    "id": 938953,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/00c93872-7e7e-4467-8872-42c0e30c9ea3/",
+    "uuid": "00c93872-7e7e-4467-8872-42c0e30c9ea3",
+    "fileThumbnail": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.96x96_q85_crop-%2C.png",
+    "fileThumbnailLarge": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.1024x1024_q85_crop-%2C.png",
+    "created": "2026-01-11T21:12:13.271583+01:00",
+    "isThumbnail": true,
+    "modified": "2026-01-11T21:12:13.271603+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 1587941,
+    "width": 1080,
+    "height": 1080,
+    "isFeatured": false,
+    "filename": "assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png",
+    "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.256x256_q85_crop-%2C.png",
+    "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.512x512_q85_crop-%2C.png",
+    "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.1024x1024_q85_crop-%2C.png",
+    "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.2048x2048_q85_crop-%2C.png",
+    "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.256x256_q85.png",
+    "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.512x512_q85.png",
+    "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.1024x1024_q85.png",
+    "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.2048x2048_q85.png",
+    "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.256x256_q85_crop-%2C.png.webp?webp_generated=1768253164",
+    "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.512x512_q85_crop-%2C.png.webp?webp_generated=1768253164",
+    "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1768253164",
+    "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1768253164",
+    "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.256x256_q85.png.webp?webp_generated=1768253164",
+    "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.512x512_q85.png.webp?webp_generated=1768253164",
+    "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.1024x1024_q85.png.webp?webp_generated=1768253164",
+    "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.2048x2048_q85.png.webp?webp_generated=1768253164",
+    "thumbnailSocialUrl": null,
+    "animationUrl": null,
+    "flexFactor": null
+   }
+  ],
+  "filesSize": 40661171,
+  "showMarketingLabels": true,
+  "webpGeneratedTimestamp": 1768253164,
+  "score": 240.0,
+  "ratingsMedian": {
+   "bookmarks": 1.0,
+   "workingHours": 3.0,
+   "quality": 8.0,
+   "virtualPrice": null
+  },
+  "ratingsAverage": {
+   "bookmarks": 0.9090909090909091,
+   "workingHours": 3.0,
+   "quality": 8.0,
+   "virtualPrice": null
+  },
+  "ratingsCount": {
+   "bookmarks": 11,
+   "workingHours": 1,
+   "quality": 1,
+   "virtualPrice": 0
+  },
+  "ratingsSum": {
+   "bookmarks": 10.0,
+   "workingHours": 3.0,
+   "quality": 8.0,
+   "virtualPrice": null,
+   "score": 240.0
+  },
+  "pageBlocks": null,
+  "access": "full",
+  "accessLabel": "Full Plan",
+  "videoLink": "",
+  "dictParameters": {
+   "sexualizedContent": false,
+   "joinBlenderkitDiscounts": true,
+   "addons": true,
+   "platforms": [
+    "windows-x64",
+    "macos-arm64",
+    "linux-x64",
+    "macos-x64",
+    "windows-arm64"
+   ],
+   "faceCount": 77878,
+   "productionLevel": "finished",
+   "procedural": true,
+   "modelStyle": "realistic",
+   "condition": "used",
+   "validatedManufacturer": true,
+   "validatedManufacturerDate": "2026-02-12T00:00:00Z",
+   "purePbr": false,
+   "shaders": [
+    "[]"
+   ],
+   "animated": false,
+   "uv": true,
+   "engines": [
+    "[cycles]"
+   ],
+   "modifiers": [
+    "[]"
+   ],
+   "materials": [
+    "[scantexture]"
+   ],
+   "rig": false,
+   "simulation": false,
+   "dimensionX": 0.4284,
+   "dimensionY": 0.7244,
+   "dimensionZ": 0.1387,
+   "boundBoxMinX": -0.2354,
+   "boundBoxMinY": -0.3932,
+   "boundBoxMinZ": 0.0,
+   "boundBoxMaxX": 0.193,
+   "boundBoxMaxY": 0.3312,
+   "boundBoxMaxZ": 0.1387,
+   "faceCountRender": 77878,
+   "meshPolyType": "tri_dominant",
+   "manifold": false,
+   "objectCount": 2,
+   "nodeCount": 0,
+   "textureCount": 0,
+   "megapixels": 0,
+   "gltfGeneratedDate": "2026-01-12",
+   "gltfGodotGeneratedDate": "2026-01-12"
+  },
+  "lastAnimatedThumbnailUpload": null,
+  "lastPrxcUpload": null,
+  "lastThumbnailUpload": "2026-01-11T20:12:13.271583+00:00",
+  "lastBlendUpload": "2026-01-11T20:12:20.704662+00:00",
+  "lastResolutionUpload": "2026-01-12T21:25:54.654161+00:00",
+  "lastGltfUpload": "2026-01-12T21:25:49.419150+00:00",
+  "lastZipFileUpload": null,
+  "lastVideoUpload": null,
+  "lastGltfGodotUpload": "2026-01-12T21:25:46.311781+00:00",
+  "lastWireThumbnailUpload": null,
+  "lastPhotoThumbnailUpload": null,
+  "canDownload": false,
+  "canDownloadError": {
+   "messages": [
+    "User is anonymous"
+   ],
+   "type": "anonymous_user"
+  },
+  "parameters": [
+   {
+    "parameterType": "sexualizedContent",
+    "value": false
+   },
+   {
+    "parameterType": "joinBlenderkitDiscounts",
+    "value": true
+   },
+   {
+    "parameterType": "addons",
+    "value": true
+   },
+   {
+    "parameterType": "platforms",
+    "value": [
+     "windows-x64",
+     "macos-arm64",
+     "linux-x64",
+     "macos-x64",
+     "windows-arm64"
+    ]
+   },
+   {
+    "parameterType": "faceCount",
+    "value": 77878
+   },
+   {
+    "parameterType": "productionLevel",
+    "value": "finished"
+   },
+   {
+    "parameterType": "procedural",
+    "value": true
+   },
+   {
+    "parameterType": "modelStyle",
+    "value": "realistic"
+   },
+   {
+    "parameterType": "condition",
+    "value": "used"
+   },
+   {
+    "parameterType": "validatedManufacturer",
+    "value": true
+   },
+   {
+    "parameterType": "validatedManufacturerDate",
+    "value": "2026-02-12T00:00:00Z"
+   },
+   {
+    "parameterType": "purePbr",
+    "value": false
+   },
+   {
+    "parameterType": "shaders",
+    "value": [
+     "[]"
+    ]
+   },
+   {
+    "parameterType": "animated",
+    "value": false
+   },
+   {
+    "parameterType": "uv",
+    "value": true
+   },
+   {
+    "parameterType": "engines",
+    "value": [
+     "[cycles]"
+    ]
+   },
+   {
+    "parameterType": "modifiers",
+    "value": [
+     "[]"
+    ]
+   },
+   {
+    "parameterType": "materials",
+    "value": [
+     "[scantexture]"
+    ]
+   },
+   {
+    "parameterType": "rig",
+    "value": false
+   },
+   {
+    "parameterType": "simulation",
+    "value": false
+   },
+   {
+    "parameterType": "dimensionX",
+    "value": 0.4284
+   },
+   {
+    "parameterType": "dimensionY",
+    "value": 0.7244
+   },
+   {
+    "parameterType": "dimensionZ",
+    "value": 0.1387
+   },
+   {
+    "parameterType": "boundBoxMinX",
+    "value": -0.2354
+   },
+   {
+    "parameterType": "boundBoxMinY",
+    "value": -0.3932
+   },
+   {
+    "parameterType": "boundBoxMinZ",
+    "value": 0.0
+   },
+   {
+    "parameterType": "boundBoxMaxX",
+    "value": 0.193
+   },
+   {
+    "parameterType": "boundBoxMaxY",
+    "value": 0.3312
+   },
+   {
+    "parameterType": "boundBoxMaxZ",
+    "value": 0.1387
+   },
+   {
+    "parameterType": "faceCountRender",
+    "value": 77878
+   },
+   {
+    "parameterType": "meshPolyType",
+    "value": "tri_dominant"
+   },
+   {
+    "parameterType": "manifold",
+    "value": false
+   },
+   {
+    "parameterType": "objectCount",
+    "value": 2
+   },
+   {
+    "parameterType": "nodeCount",
+    "value": 0
+   },
+   {
+    "parameterType": "textureCount",
+    "value": 0
+   },
+   {
+    "parameterType": "megapixels",
+    "value": 0
+   },
+   {
+    "parameterType": "gltfGeneratedDate",
+    "value": "2026-01-12"
+   },
+   {
+    "parameterType": "gltfGodotGeneratedDate",
+    "value": "2026-01-12"
+   }
+  ],
+  "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.256x256_q85_crop-%2C.png",
+  "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.512x512_q85_crop-%2C.png",
+  "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.1024x1024_q85_crop-%2C.png",
+  "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.2048x2048_q85_crop-%2C.png",
+  "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.256x256_q85.png",
+  "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.512x512_q85.png",
+  "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.1024x1024_q85.png",
+  "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.2048x2048_q85.png",
+  "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.256x256_q85_crop-%2C.png.webp?webp_generated=1768253164",
+  "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.512x512_q85_crop-%2C.png.webp?webp_generated=1768253164",
+  "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1768253164",
+  "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1768253164",
+  "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.256x256_q85.png.webp?webp_generated=1768253164",
+  "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.512x512_q85.png.webp?webp_generated=1768253164",
+  "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.1024x1024_q85.png.webp?webp_generated=1768253164",
+  "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/5d5b1cbb444340bd9ea827762eed5312/files/thumbnail_baa06a7f-9b2f-4bbf-8502-f2ce25369e6b.png.2048x2048_q85.png.webp?webp_generated=1768253164"
+ },
+ {
+  "pk": 214501,
+  "url": "https://www.blenderkit.com/api/v1/assets/bbd545ef-2019-47b8-931e-66e59ef583ff/",
+  "id": "bbd545ef-2019-47b8-931e-66e59ef583ff",
+  "assetBaseId": "9e411a05-43b6-4d6d-a9af-d641f292fba5",
+  "versionNumber": 1,
+  "author": {
+   "id": 927057,
+   "firstName": "GL3D",
+   "lastName": "Gabriela Linhares",
+   "gravatarHash": "3b85535ce5ec13d4422ace50239f6ab0",
+   "avatar128": "/avatar-redirect/f080004b-9c40-4f5f-ac66-dd878d956498/128/",
+   "avatar256": "/avatar-redirect/f080004b-9c40-4f5f-ac66-dd878d956498/256/",
+   "avatar512": "/avatar-redirect/f080004b-9c40-4f5f-ac66-dd878d956498/512/",
+   "aboutMe": "Master in Architecture - 3D artist - scanning artist",
+   "aboutMeUrl": "https://insightz.com.br/gabils/",
+   "fullName": "GL3D Gabriela Linhares",
+   "socialNetworks": [
+    {
+     "socialNetwork": {
+      "name": "Instagram",
+      "icon": "<i class=\"fab fa-instagram\" title=\"Instagram\"></i><span class=\"sr-only\">Instagram</span>",
+      "order": 3
+     },
+     "url": "https://www.instagram.com/gl.3d"
+    },
+    {
+     "socialNetwork": {
+      "name": "ArtStation",
+      "icon": "<i class=\"fab fa-artstation\" title=\"ArtStation\"></i><span class=\"sr-only\">ArtStation</span>",
+      "order": 5
+     },
+     "url": "https://www.artstation.com/gl3dmodeling"
+    }
+   ]
+  },
+  "name": "Pile of Patterned Dresses",
+  "displayName": "Pile of Patterned Dresses",
+  "description": "Photogrammetry scan of a pile of patterned dresses with varied fabrics, folds, and overlapping layers. Captures intricate textile details, including floral prints, color variation, and natural cloth deformation. Ideal for realism-driven scenes, interior props, wardrobe clutter, or asset baking. The scan preserves fine surface detail and organic shapes, suitable for close-up rendering and optimization workflows.",
+  "descriptionHtml": "<p>Photogrammetry scan of a pile of patterned dresses with varied fabrics, folds, and overlapping layers. Captures intricate textile details, including floral prints, color variation, and natural cloth deformation. Ideal for realism-driven scenes, interior props, wardrobe clutter, or asset baking. The scan preserves fine surface detail and organic shapes, suitable for close-up rendering and optimization workflows.</p>",
+  "assetType": "model",
+  "category": "fabrics",
+  "isFree": false,
+  "isForSale": false,
+  "basePrice": null,
+  "tags": [
+   "photogrammetry",
+   "clothing",
+   "dresses",
+   "fabric",
+   "textile",
+   "pile",
+   "patterned",
+   "highpoly",
+   "scan",
+   "realistic"
+  ],
+  "license": "royalty_free",
+  "sourceAppName": "blender",
+  "sourceAppVersion": "4.1.1",
+  "addonVersion": "3.18.0",
+  "created": "2026-03-28T14:03:51.600939+01:00",
+  "lastUserInteraction": "2026-03-28T14:04:01.102640+01:00",
+  "verificationStatus": "validated",
+  "isPrivate": false,
+  "files": [
+   {
+    "fileType": "blend",
+    "id": 1023967,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/5d6b61dc-fcf6-4767-9aa3-b18a185f399e/",
+    "uuid": "5d6b61dc-fcf6-4767-9aa3-b18a185f399e",
+    "created": "2026-03-28T14:04:00.697122+01:00",
+    "isThumbnail": false,
+    "modified": "2026-03-28T14:04:00.697137+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 8970702,
+    "isFeatured": false,
+    "filename": "assets/bbd545ef201947b8931e66e59ef583ff/files/blend_b88ed06a-42b4-4f99-afc1-f5681fabb15e.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_0_5K",
+    "id": 1029460,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/1a63ba46-b2e2-44af-97e4-d1743fcdcd51/",
+    "uuid": "1a63ba46-b2e2-44af-97e4-d1743fcdcd51",
+    "created": "2026-04-02T08:34:45.190227+02:00",
+    "isThumbnail": false,
+    "modified": "2026-04-02T08:34:45.190239+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 2556027,
+    "isFeatured": false,
+    "filename": "assets/bbd545ef201947b8931e66e59ef583ff/files/resolution_0_5K_577ee6a9-b128-4e79-b682-a0a81834c255.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_1K",
+    "id": 1029459,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/d814f964-9736-4f79-99cb-c35b23861682/",
+    "uuid": "d814f964-9736-4f79-99cb-c35b23861682",
+    "created": "2026-04-02T08:34:44.601717+02:00",
+    "isThumbnail": false,
+    "modified": "2026-04-02T08:34:44.601732+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 2877862,
+    "isFeatured": false,
+    "filename": "assets/bbd545ef201947b8931e66e59ef583ff/files/resolution_1K_dad4abf6-5310-4bf0-a934-26b5efa09abc.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_2K",
+    "id": 1029458,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/3146d108-9ce5-4a2e-a137-51d82215e378/",
+    "uuid": "3146d108-9ce5-4a2e-a137-51d82215e378",
+    "created": "2026-04-02T08:34:44.048316+02:00",
+    "isThumbnail": false,
+    "modified": "2026-04-02T08:34:44.048325+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 3834020,
+    "isFeatured": false,
+    "filename": "assets/bbd545ef201947b8931e66e59ef583ff/files/resolution_2K_34bbe291-272d-4ce8-b36e-86a6a234d337.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_4K",
+    "id": 1029457,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/c756030c-685e-4457-8fb6-e77f8f222500/",
+    "uuid": "c756030c-685e-4457-8fb6-e77f8f222500",
+    "created": "2026-04-02T08:34:43.298726+02:00",
+    "isThumbnail": false,
+    "modified": "2026-04-02T08:34:43.298740+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 7090710,
+    "isFeatured": false,
+    "filename": "assets/bbd545ef201947b8931e66e59ef583ff/files/resolution_4K_8c68409e-d357-4085-a833-df9e6ce3f158.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "thumbnail",
+    "id": 1023966,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/39731294-d6b2-4aac-8e1f-213c5595ed8a/",
+    "uuid": "39731294-d6b2-4aac-8e1f-213c5595ed8a",
+    "fileThumbnail": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.96x96_q85_crop-%2C.png",
+    "fileThumbnailLarge": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.1024x1024_q85_crop-%2C.png",
+    "created": "2026-03-28T14:03:57.084585+01:00",
+    "isThumbnail": true,
+    "modified": "2026-03-28T14:03:57.084601+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 1586560,
+    "width": 1080,
+    "height": 1080,
+    "isFeatured": false,
+    "filename": "assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png",
+    "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.256x256_q85_crop-%2C.png",
+    "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.512x512_q85_crop-%2C.png",
+    "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.1024x1024_q85_crop-%2C.png",
+    "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.2048x2048_q85_crop-%2C.png",
+    "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.256x256_q85.png",
+    "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.512x512_q85.png",
+    "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.1024x1024_q85.png",
+    "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.2048x2048_q85.png",
+    "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.256x256_q85_crop-%2C.png.webp?webp_generated=1775046075",
+    "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.512x512_q85_crop-%2C.png.webp?webp_generated=1775046075",
+    "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1775046075",
+    "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1775046075",
+    "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.256x256_q85.png.webp?webp_generated=1775046075",
+    "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.512x512_q85.png.webp?webp_generated=1775046075",
+    "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.1024x1024_q85.png.webp?webp_generated=1775046075",
+    "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.2048x2048_q85.png.webp?webp_generated=1775046075",
+    "thumbnailSocialUrl": null,
+    "animationUrl": null,
+    "flexFactor": null
+   }
+  ],
+  "filesSize": 26915881,
+  "showMarketingLabels": true,
+  "webpGeneratedTimestamp": 1775046075,
+  "score": 320.0,
+  "ratingsMedian": {
+   "bookmarks": 1.0,
+   "workingHours": 4.0,
+   "quality": 8.0,
+   "virtualPrice": null
+  },
+  "ratingsAverage": {
+   "bookmarks": 1.0,
+   "workingHours": 4.0,
+   "quality": 8.0,
+   "virtualPrice": null
+  },
+  "ratingsCount": {
+   "bookmarks": 9,
+   "workingHours": 1,
+   "quality": 1,
+   "virtualPrice": 0
+  },
+  "ratingsSum": {
+   "bookmarks": 9.0,
+   "workingHours": 4.0,
+   "quality": 8.0,
+   "virtualPrice": null,
+   "score": 320.0
+  },
+  "pageBlocks": null,
+  "access": "full",
+  "accessLabel": "Full Plan",
+  "videoLink": "",
+  "dictParameters": {
+   "sexualizedContent": false,
+   "joinBlenderkitDiscounts": true,
+   "addons": true,
+   "platforms": [
+    "windows-x64",
+    "macos-arm64",
+    "linux-x64",
+    "macos-x64",
+    "windows-arm64"
+   ],
+   "faceCount": 75947,
+   "productionLevel": "finished",
+   "procedural": true,
+   "modelStyle": "realistic",
+   "condition": "used",
+   "purePbr": false,
+   "shaders": [
+    "[]"
+   ],
+   "animated": false,
+   "uv": true,
+   "engines": [
+    "[cycles]"
+   ],
+   "modifiers": [
+    "[]"
+   ],
+   "materials": [
+    "[scan texture]"
+   ],
+   "rig": false,
+   "simulation": false,
+   "dimensionX": 0.6071,
+   "dimensionY": 0.699,
+   "dimensionZ": 0.1295,
+   "boundBoxMinX": -0.2997,
+   "boundBoxMinY": -0.3466,
+   "boundBoxMinZ": 0.0,
+   "boundBoxMaxX": 0.3074,
+   "boundBoxMaxY": 0.3524,
+   "boundBoxMaxZ": 0.1295,
+   "faceCountRender": 75947,
+   "meshPolyType": "tri_dominant",
+   "manifold": false,
+   "objectCount": 2,
+   "nodeCount": 0,
+   "textureCount": 0,
+   "megapixels": 0
+  },
+  "lastGltfGodotUpload": null,
+  "lastZipFileUpload": null,
+  "lastVideoUpload": null,
+  "lastPhotoThumbnailUpload": null,
+  "lastAnimatedThumbnailUpload": null,
+  "lastResolutionUpload": "2026-04-02T06:34:45.190227+00:00",
+  "lastWireThumbnailUpload": null,
+  "lastGltfUpload": null,
+  "lastBlendUpload": "2026-03-28T13:04:00.697122+00:00",
+  "lastThumbnailUpload": "2026-03-28T13:03:57.084585+00:00",
+  "lastPrxcUpload": null,
+  "canDownload": false,
+  "canDownloadError": {
+   "messages": [
+    "User is anonymous"
+   ],
+   "type": "anonymous_user"
+  },
+  "parameters": [
+   {
+    "parameterType": "sexualizedContent",
+    "value": false
+   },
+   {
+    "parameterType": "joinBlenderkitDiscounts",
+    "value": true
+   },
+   {
+    "parameterType": "addons",
+    "value": true
+   },
+   {
+    "parameterType": "platforms",
+    "value": [
+     "windows-x64",
+     "macos-arm64",
+     "linux-x64",
+     "macos-x64",
+     "windows-arm64"
+    ]
+   },
+   {
+    "parameterType": "faceCount",
+    "value": 75947
+   },
+   {
+    "parameterType": "productionLevel",
+    "value": "finished"
+   },
+   {
+    "parameterType": "procedural",
+    "value": true
+   },
+   {
+    "parameterType": "modelStyle",
+    "value": "realistic"
+   },
+   {
+    "parameterType": "condition",
+    "value": "used"
+   },
+   {
+    "parameterType": "purePbr",
+    "value": false
+   },
+   {
+    "parameterType": "shaders",
+    "value": [
+     "[]"
+    ]
+   },
+   {
+    "parameterType": "animated",
+    "value": false
+   },
+   {
+    "parameterType": "uv",
+    "value": true
+   },
+   {
+    "parameterType": "engines",
+    "value": [
+     "[cycles]"
+    ]
+   },
+   {
+    "parameterType": "modifiers",
+    "value": [
+     "[]"
+    ]
+   },
+   {
+    "parameterType": "materials",
+    "value": [
+     "[scan texture]"
+    ]
+   },
+   {
+    "parameterType": "rig",
+    "value": false
+   },
+   {
+    "parameterType": "simulation",
+    "value": false
+   },
+   {
+    "parameterType": "dimensionX",
+    "value": 0.6071
+   },
+   {
+    "parameterType": "dimensionY",
+    "value": 0.699
+   },
+   {
+    "parameterType": "dimensionZ",
+    "value": 0.1295
+   },
+   {
+    "parameterType": "boundBoxMinX",
+    "value": -0.2997
+   },
+   {
+    "parameterType": "boundBoxMinY",
+    "value": -0.3466
+   },
+   {
+    "parameterType": "boundBoxMinZ",
+    "value": 0.0
+   },
+   {
+    "parameterType": "boundBoxMaxX",
+    "value": 0.3074
+   },
+   {
+    "parameterType": "boundBoxMaxY",
+    "value": 0.3524
+   },
+   {
+    "parameterType": "boundBoxMaxZ",
+    "value": 0.1295
+   },
+   {
+    "parameterType": "faceCountRender",
+    "value": 75947
+   },
+   {
+    "parameterType": "meshPolyType",
+    "value": "tri_dominant"
+   },
+   {
+    "parameterType": "manifold",
+    "value": false
+   },
+   {
+    "parameterType": "objectCount",
+    "value": 2
+   },
+   {
+    "parameterType": "nodeCount",
+    "value": 0
+   },
+   {
+    "parameterType": "textureCount",
+    "value": 0
+   },
+   {
+    "parameterType": "megapixels",
+    "value": 0
+   }
+  ],
+  "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.256x256_q85_crop-%2C.png",
+  "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.512x512_q85_crop-%2C.png",
+  "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.1024x1024_q85_crop-%2C.png",
+  "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.2048x2048_q85_crop-%2C.png",
+  "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.256x256_q85.png",
+  "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.512x512_q85.png",
+  "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.1024x1024_q85.png",
+  "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.2048x2048_q85.png",
+  "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.256x256_q85_crop-%2C.png.webp?webp_generated=1775046075",
+  "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.512x512_q85_crop-%2C.png.webp?webp_generated=1775046075",
+  "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1775046075",
+  "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1775046075",
+  "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.256x256_q85.png.webp?webp_generated=1775046075",
+  "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.512x512_q85.png.webp?webp_generated=1775046075",
+  "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.1024x1024_q85.png.webp?webp_generated=1775046075",
+  "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/bbd545ef201947b8931e66e59ef583ff/files/thumbnail_5c860c52-2b74-4831-a821-5b9f71f2875f.png.2048x2048_q85.png.webp?webp_generated=1775046075"
+ }
+]

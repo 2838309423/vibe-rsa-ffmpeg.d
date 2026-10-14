@@ -46,6 +46,11 @@ projects/
     project.json  doc.txt  images/（15 张）  source.mp4  out/
 docs/
   方案-可复用化与gitee建仓-261013.md
+blenderkit/
+  方案-blenderkit家居整理工作流-261014.md   房间整理/断舍离素材线（呈现机制+8步SOP+关键词表）
+  画册-精选素材-261014.md                   29 件精选素材（缩略图+免费/Full徽标+体积+链接）
+  bk_search.py  build_gallery.py            检索/画册生成工具（公开API，无需账号）
+  thumbs/  raw/                             48 张缩略图 + 10 份原始检索 JSON
 ```
 
 `project.json` 关键字段：
@@ -94,3 +99,16 @@ docs/
 成片 `out/final.mp4`：886x1920@30fps，H.264(high,yuv420p)+AAC 192k，163.833s，4915 帧，9.3 MB，
 md5 `46019d44f386caa2237cc9dfe7628bf3`（改造前后逐字节一致）。15 段逐段读数与文案见
 `projects/260412-杂物新陈代谢/out/分镜对账图.jpg` 与 `out/plan.json`。
+
+## BlenderKit 素材线（房间整理/断舍离，2026-10-14 起）
+
+给"整理类"片子供 3D 场景素材：方案（四件套呈现机制 + 8 步 SOP + 中英关键词表）与 29 件精选画册
+都在 `blenderkit/`；换主题重抓两条命令：
+
+```bash
+python3 blenderkit/bk_search.py "storage box" --type model --max 5 --thumbs blenderkit/thumbs
+python3 blenderkit/build_gallery.py          # 改 THEMES 表换主题重出画册
+```
+
+口径（甲方 2026-10-14 定）：素材线正本归**本仓**；主机侧（Blender 装插件/登录）的装机事实归
+`gitee:gushiteng/usavps-xfce-blender-turbovnc.d`，两边不混。

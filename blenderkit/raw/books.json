@@ -1,0 +1,2415 @@
+[
+ {
+  "pk": 84549,
+  "url": "https://www.blenderkit.com/api/v1/assets/0291df04-8293-4c71-918e-c0fdfe40b017/",
+  "id": "0291df04-8293-4c71-918e-c0fdfe40b017",
+  "assetBaseId": "b738e944-c964-46f8-8c84-09afe95c4ea1",
+  "versionNumber": 1,
+  "author": {
+   "id": 53515,
+   "firstName": "Julien",
+   "lastName": "Winé",
+   "gravatarHash": "c01cf00281ff9493ab54b6bc4399da32",
+   "avatar128": "/avatar-redirect/c69287e3-ea0e-4ca6-9678-23879e4627e4/128/",
+   "avatar256": "/avatar-redirect/c69287e3-ea0e-4ca6-9678-23879e4627e4/256/",
+   "avatar512": "/avatar-redirect/c69287e3-ea0e-4ca6-9678-23879e4627e4/512/",
+   "aboutMe": "",
+   "aboutMeUrl": "https://jwblenderassetcreator.blogspot.com/2024/03/blender-assets.html",
+   "fullName": "Julien Winé",
+   "socialNetworks": []
+  },
+  "name": "Ikea Billy Bookshelf 80x202cm",
+  "displayName": "Ikea Billy Bookshelf 80x202cm",
+  "description": "Ikea Billy books library with lightweight geometry for architecture. Four different material included. Whole collection available.",
+  "descriptionHtml": "<p>Ikea Billy books library with lightweight geometry for architecture. Four different material included. Whole collection available.</p>",
+  "assetType": "model",
+  "category": "office-storage",
+  "isFree": true,
+  "isForSale": false,
+  "basePrice": null,
+  "tags": [
+   "book",
+   "shelf",
+   "bookcase",
+   "bookshelf"
+  ],
+  "license": "royalty_free",
+  "sourceAppName": "blender",
+  "sourceAppVersion": "4.0.2",
+  "addonVersion": "3.11.0",
+  "created": "2024-03-17T10:24:58.580034+01:00",
+  "lastUserInteraction": "2024-03-17T10:26:26.802186+01:00",
+  "verificationStatus": "validated",
+  "isPrivate": false,
+  "files": [
+   {
+    "fileType": "blend",
+    "id": 346199,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/b026ebf0-9979-4a69-99b2-3533f89de2f7/",
+    "uuid": "b026ebf0-9979-4a69-99b2-3533f89de2f7",
+    "created": "2024-03-17T10:26:26.434563+01:00",
+    "isThumbnail": false,
+    "modified": "2024-04-24T11:06:07.526347+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 59120344,
+    "isFeatured": false,
+    "filename": "assets/0291df0482934c71918ec0fdfe40b017/files/blend_4f585baf-d03b-4469-a722-7c2d0fbe8cd9.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_0_5K",
+    "id": 347646,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/202bef2d-b2d7-402a-901f-7c669800b380/",
+    "uuid": "202bef2d-b2d7-402a-901f-7c669800b380",
+    "created": "2024-03-19T16:48:20.196974+01:00",
+    "isThumbnail": false,
+    "modified": "2024-04-24T11:06:07.554562+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 420607,
+    "isFeatured": false,
+    "filename": "assets/0291df0482934c71918ec0fdfe40b017/files/resolution_0_5K_9bf01cc1-b2f8-406f-a428-6ab672271de8.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_1K",
+    "id": 347645,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/d509ae11-4e3a-4689-99d5-f91a922ea219/",
+    "uuid": "d509ae11-4e3a-4689-99d5-f91a922ea219",
+    "created": "2024-03-19T16:48:19.493198+01:00",
+    "isThumbnail": false,
+    "modified": "2024-04-24T11:06:07.578761+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 1212691,
+    "isFeatured": false,
+    "filename": "assets/0291df0482934c71918ec0fdfe40b017/files/resolution_1K_531c28f0-4028-4e1f-89cf-bf249d25901f.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_2K",
+    "id": 347644,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/d76af128-55dc-4270-be29-2a73a5d15951/",
+    "uuid": "d76af128-55dc-4270-be29-2a73a5d15951",
+    "created": "2024-03-19T16:48:18.916203+01:00",
+    "isThumbnail": false,
+    "modified": "2024-04-24T11:06:07.608399+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 3897108,
+    "isFeatured": false,
+    "filename": "assets/0291df0482934c71918ec0fdfe40b017/files/resolution_2K_9f6227cd-a24c-41ee-a922-e6303a94f57b.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "thumbnail",
+    "id": 346198,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/2beaa2bb-643d-4e61-a89e-c6a27a6db60b/",
+    "uuid": "2beaa2bb-643d-4e61-a89e-c6a27a6db60b",
+    "fileThumbnail": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.96x96_q85_crop-%2C.png",
+    "fileThumbnailLarge": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.1024x1024_q85_crop-%2C.png",
+    "created": "2024-03-17T10:25:03.364618+01:00",
+    "isThumbnail": true,
+    "modified": "2025-12-22T22:01:10.591786+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 903559,
+    "width": 1024,
+    "height": 1024,
+    "isFeatured": false,
+    "filename": "assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png",
+    "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.256x256_q85_crop-%2C.png",
+    "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.512x512_q85_crop-%2C.png",
+    "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.1024x1024_q85_crop-%2C.png",
+    "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.2048x2048_q85_crop-%2C.png",
+    "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.256x256_q85.png",
+    "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.512x512_q85.png",
+    "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.1024x1024_q85.png",
+    "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.2048x2048_q85.png",
+    "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.256x256_q85_crop-%2C.png.webp?webp_generated=1766523827",
+    "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.512x512_q85_crop-%2C.png.webp?webp_generated=1766523827",
+    "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1766523827",
+    "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1766523827",
+    "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.256x256_q85.png.webp?webp_generated=1766523827",
+    "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.512x512_q85.png.webp?webp_generated=1766523827",
+    "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.1024x1024_q85.png.webp?webp_generated=1766523827",
+    "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.2048x2048_q85.png.webp?webp_generated=1766523827",
+    "thumbnailSocialUrl": null,
+    "animationUrl": null,
+    "flexFactor": null
+   }
+  ],
+  "filesSize": 65554309,
+  "showMarketingLabels": true,
+  "webpGeneratedTimestamp": 1766523827,
+  "score": 115.625,
+  "ratingsMedian": {
+   "bookmarks": 1.0,
+   "workingHours": 1.25,
+   "quality": 10.0,
+   "virtualPrice": null
+  },
+  "ratingsAverage": {
+   "bookmarks": 0.9707602339181286,
+   "workingHours": 1.25,
+   "quality": 9.25,
+   "virtualPrice": null
+  },
+  "ratingsCount": {
+   "bookmarks": 342,
+   "workingHours": 2,
+   "quality": 4,
+   "virtualPrice": 0
+  },
+  "ratingsSum": {
+   "bookmarks": 332.0,
+   "workingHours": 2.5,
+   "quality": 37.0,
+   "virtualPrice": null,
+   "score": 115.625
+  },
+  "pageBlocks": null,
+  "access": "free",
+  "accessLabel": "Free",
+  "videoLink": "",
+  "dictParameters": {
+   "sexualizedContent": false,
+   "joinBlenderkitDiscounts": true,
+   "addons": true,
+   "platforms": [
+    "windows-x64",
+    "macos-arm64",
+    "linux-x64",
+    "macos-x64",
+    "windows-arm64"
+   ],
+   "faceCount": 84,
+   "textureResolutionMax": 2048,
+   "productionLevel": "finished",
+   "procedural": false,
+   "modelStyle": "realistic",
+   "condition": "new",
+   "designer": "Ikea",
+   "manufacturer": "Ikea",
+   "validatedManufacturer": true,
+   "validatedManufacturerDate": "2026-03-03T04:52:12.112571+00:00",
+   "validatedManufacturerOutput": "Heuristics approved metadata",
+   "validatedManufacturerActor": "heuristic",
+   "designCollection": "Billy",
+   "shaders": [
+    "principled"
+   ],
+   "uv": true,
+   "textureResolutionMin": 2048,
+   "engines": [
+    "cycles"
+   ],
+   "modifiers": [
+    "bevel",
+    "weighted normal"
+   ],
+   "materials": [
+    "Billy.LightOak",
+    "Billy.Medium",
+    "Billy.White",
+    "Billy.BlackWood",
+    "Billy.FullBlack"
+   ],
+   "rig": false,
+   "simulation": false,
+   "dimensionX": 0.8,
+   "dimensionY": 0.2802,
+   "dimensionZ": 2.0202,
+   "boundBoxMinX": -0.4029,
+   "boundBoxMinY": -0.2849,
+   "boundBoxMinZ": -0.0002,
+   "boundBoxMaxX": 0.3971,
+   "boundBoxMaxY": -0.0046,
+   "boundBoxMaxZ": 2.02,
+   "faceCountRender": 84,
+   "meshPolyType": "quad_dominant",
+   "manifold": false,
+   "objectCount": 1,
+   "nodeCount": 37,
+   "textureCount": 4,
+   "megapixels": 16,
+   "imageAltTextGen4v": "Variety of Ikea 3D bookshelves in a row, showcasing different textures and shaders, optimized for Blender."
+  },
+  "lastGltfGodotUpload": null,
+  "lastZipFileUpload": null,
+  "lastAnimatedThumbnailUpload": null,
+  "lastBlendUpload": "2024-03-17T09:26:26.434563+00:00",
+  "lastGltfUpload": null,
+  "lastPrxcUpload": null,
+  "lastVideoUpload": null,
+  "lastThumbnailUpload": "2024-03-17T09:25:03.364618+00:00",
+  "lastPhotoThumbnailUpload": null,
+  "lastResolutionUpload": "2024-03-19T15:48:20.196974+00:00",
+  "lastWireThumbnailUpload": null,
+  "canDownload": true,
+  "canDownloadError": true,
+  "parameters": [
+   {
+    "parameterType": "sexualizedContent",
+    "value": false
+   },
+   {
+    "parameterType": "joinBlenderkitDiscounts",
+    "value": true
+   },
+   {
+    "parameterType": "addons",
+    "value": true
+   },
+   {
+    "parameterType": "platforms",
+    "value": [
+     "windows-x64",
+     "macos-arm64",
+     "linux-x64",
+     "macos-x64",
+     "windows-arm64"
+    ]
+   },
+   {
+    "parameterType": "faceCount",
+    "value": 84
+   },
+   {
+    "parameterType": "textureResolutionMax",
+    "value": 2048
+   },
+   {
+    "parameterType": "productionLevel",
+    "value": "finished"
+   },
+   {
+    "parameterType": "procedural",
+    "value": false
+   },
+   {
+    "parameterType": "modelStyle",
+    "value": "realistic"
+   },
+   {
+    "parameterType": "condition",
+    "value": "new"
+   },
+   {
+    "parameterType": "designer",
+    "value": "Ikea"
+   },
+   {
+    "parameterType": "manufacturer",
+    "value": "Ikea"
+   },
+   {
+    "parameterType": "validatedManufacturer",
+    "value": true
+   },
+   {
+    "parameterType": "validatedManufacturerDate",
+    "value": "2026-03-03T04:52:12.112571+00:00"
+   },
+   {
+    "parameterType": "validatedManufacturerOutput",
+    "value": "Heuristics approved metadata"
+   },
+   {
+    "parameterType": "validatedManufacturerActor",
+    "value": "heuristic"
+   },
+   {
+    "parameterType": "designCollection",
+    "value": "Billy"
+   },
+   {
+    "parameterType": "shaders",
+    "value": [
+     "principled"
+    ]
+   },
+   {
+    "parameterType": "uv",
+    "value": true
+   },
+   {
+    "parameterType": "textureResolutionMin",
+    "value": 2048
+   },
+   {
+    "parameterType": "engines",
+    "value": [
+     "cycles"
+    ]
+   },
+   {
+    "parameterType": "modifiers",
+    "value": [
+     "bevel",
+     "weighted normal"
+    ]
+   },
+   {
+    "parameterType": "materials",
+    "value": [
+     "Billy.LightOak",
+     "Billy.Medium",
+     "Billy.White",
+     "Billy.BlackWood",
+     "Billy.FullBlack"
+    ]
+   },
+   {
+    "parameterType": "rig",
+    "value": false
+   },
+   {
+    "parameterType": "simulation",
+    "value": false
+   },
+   {
+    "parameterType": "dimensionX",
+    "value": 0.8
+   },
+   {
+    "parameterType": "dimensionY",
+    "value": 0.2802
+   },
+   {
+    "parameterType": "dimensionZ",
+    "value": 2.0202
+   },
+   {
+    "parameterType": "boundBoxMinX",
+    "value": -0.4029
+   },
+   {
+    "parameterType": "boundBoxMinY",
+    "value": -0.2849
+   },
+   {
+    "parameterType": "boundBoxMinZ",
+    "value": -0.0002
+   },
+   {
+    "parameterType": "boundBoxMaxX",
+    "value": 0.3971
+   },
+   {
+    "parameterType": "boundBoxMaxY",
+    "value": -0.0046
+   },
+   {
+    "parameterType": "boundBoxMaxZ",
+    "value": 2.02
+   },
+   {
+    "parameterType": "faceCountRender",
+    "value": 84
+   },
+   {
+    "parameterType": "meshPolyType",
+    "value": "quad_dominant"
+   },
+   {
+    "parameterType": "manifold",
+    "value": false
+   },
+   {
+    "parameterType": "objectCount",
+    "value": 1
+   },
+   {
+    "parameterType": "nodeCount",
+    "value": 37
+   },
+   {
+    "parameterType": "textureCount",
+    "value": 4
+   },
+   {
+    "parameterType": "megapixels",
+    "value": 16
+   },
+   {
+    "parameterType": "imageAltTextGen4v",
+    "value": "Variety of Ikea 3D bookshelves in a row, showcasing different textures and shaders, optimized for Blender."
+   }
+  ],
+  "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.256x256_q85_crop-%2C.png",
+  "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.512x512_q85_crop-%2C.png",
+  "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.1024x1024_q85_crop-%2C.png",
+  "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.2048x2048_q85_crop-%2C.png",
+  "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.256x256_q85.png",
+  "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.512x512_q85.png",
+  "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.1024x1024_q85.png",
+  "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.2048x2048_q85.png",
+  "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.256x256_q85_crop-%2C.png.webp?webp_generated=1766523827",
+  "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.512x512_q85_crop-%2C.png.webp?webp_generated=1766523827",
+  "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1766523827",
+  "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1766523827",
+  "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.256x256_q85.png.webp?webp_generated=1766523827",
+  "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.512x512_q85.png.webp?webp_generated=1766523827",
+  "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.1024x1024_q85.png.webp?webp_generated=1766523827",
+  "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/0291df0482934c71918ec0fdfe40b017/files/thumbnail_acc28341-ff95-4db9-90b2-715007de625f.png.2048x2048_q85.png.webp?webp_generated=1766523827"
+ },
+ {
+  "pk": 252173,
+  "url": "https://www.blenderkit.com/api/v1/assets/404ac17a-3ba0-41df-918a-9360666cb6aa/",
+  "id": "404ac17a-3ba0-41df-918a-9360666cb6aa",
+  "assetBaseId": "b2441c4e-89d4-48e5-a971-44132a99d05b",
+  "versionNumber": 1,
+  "author": {
+   "id": 260035,
+   "firstName": "Dal",
+   "lastName": "Roron",
+   "gravatarHash": "a2e98f451513040572536054f9f2f848",
+   "avatar128": "/avatar-redirect/00754717-319b-4d16-8c05-e3c14179069b/128/",
+   "avatar256": "/avatar-redirect/00754717-319b-4d16-8c05-e3c14179069b/256/",
+   "avatar512": "/avatar-redirect/00754717-319b-4d16-8c05-e3c14179069b/512/",
+   "aboutMe": "When I have a moment, I turn on Blender and create models. Whether it's a mug or a dinosaur, I try to make them look as good as possible. It's my hobby, but also a challenge - how to create something unique with every detail.",
+   "aboutMeUrl": "https://sketchfab.com/dalroron",
+   "fullName": "Dal Roron",
+   "socialNetworks": []
+  },
+  "name": "Modern Wavy Corner Bookshelf",
+  "displayName": "Modern Wavy Corner Bookshelf",
+  "description": "Modern wooden corner bookshelf with a distinctive wavy silhouette and multiple open shelves. Designed to fit into room corners while providing practical storage and display space. Light natural wood finish with visible grain. Textures channel packed",
+  "descriptionHtml": "<p>Modern wooden corner bookshelf with a distinctive wavy silhouette and multiple open shelves. Designed to fit into room corners while providing practical storage and display space. Light natural wood finish with visible grain. Textures channel packed</p>",
+  "assetType": "model",
+  "category": "bookcase",
+  "isFree": true,
+  "isForSale": false,
+  "basePrice": null,
+  "tags": [
+   "bookshelf",
+   "corner",
+   "wooden",
+   "modern",
+   "wavy",
+   "furniture",
+   "shelving",
+   "storage",
+   "interior",
+   "wood"
+  ],
+  "license": "royalty_free",
+  "sourceAppName": "blender",
+  "sourceAppVersion": "5.1.2",
+  "addonVersion": "3.21.0",
+  "created": "2026-08-26T12:32:31.275123+02:00",
+  "lastUserInteraction": "2026-08-26T12:32:51.819565+02:00",
+  "verificationStatus": "validated",
+  "isPrivate": false,
+  "files": [
+   {
+    "fileType": "blend",
+    "id": 1269576,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/c6a8a1db-a7a9-4a0e-8c09-41c75e0c1a17/",
+    "uuid": "c6a8a1db-a7a9-4a0e-8c09-41c75e0c1a17",
+    "created": "2026-08-28T09:55:40.771223+02:00",
+    "isThumbnail": false,
+    "modified": "2026-08-28T09:55:40.771245+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 38854515,
+    "isFeatured": false,
+    "filename": "assets/404ac17a3ba041df918a9360666cb6aa/files/blend_59e01bd7-9e2f-4939-a97b-45cfdff19165.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "gltf",
+    "id": 1269585,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/77e33355-362b-4cd5-9620-1bec54f85b2c/",
+    "uuid": "77e33355-362b-4cd5-9620-1bec54f85b2c",
+    "created": "2026-08-28T09:56:35.914058+02:00",
+    "isThumbnail": false,
+    "modified": "2026-08-28T09:56:35.914072+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 144776,
+    "isFeatured": false,
+    "filename": "assets/404ac17a3ba041df918a9360666cb6aa/files/gltf_fab5e5c6-6f62-4301-bd30-e786b1f04504.glb",
+    "flexFactor": null
+   },
+   {
+    "fileType": "gltf_godot",
+    "id": 1269591,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/b54ae652-45ee-499f-b955-8dc7bd085914/",
+    "uuid": "b54ae652-45ee-499f-b955-8dc7bd085914",
+    "created": "2026-08-28T09:57:17.461752+02:00",
+    "isThumbnail": false,
+    "modified": "2026-08-28T09:57:17.461766+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 451188,
+    "isFeatured": false,
+    "filename": "assets/404ac17a3ba041df918a9360666cb6aa/files/gltf_godot_bb5037f0-6dd0-46d1-a2f4-43d791b39850.glb",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_0_5K",
+    "id": 1269582,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/636151e5-a607-4e49-8ab7-22f539cb8ed3/",
+    "uuid": "636151e5-a607-4e49-8ab7-22f539cb8ed3",
+    "created": "2026-08-28T09:55:54.418656+02:00",
+    "isThumbnail": false,
+    "modified": "2026-08-28T09:55:54.418677+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 985893,
+    "isFeatured": false,
+    "filename": "assets/404ac17a3ba041df918a9360666cb6aa/files/resolution_0_5K_935d49fa-1bc2-4402-8607-7de5979e0e19.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_1K",
+    "id": 1269580,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/0796db48-0110-4df0-bca2-0abe18ef147f/",
+    "uuid": "0796db48-0110-4df0-bca2-0abe18ef147f",
+    "created": "2026-08-28T09:55:53.595857+02:00",
+    "isThumbnail": false,
+    "modified": "2026-08-28T09:55:53.595878+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 3239339,
+    "isFeatured": false,
+    "filename": "assets/404ac17a3ba041df918a9360666cb6aa/files/resolution_1K_6739a78f-4a99-489a-b861-f8f5bd833045.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_2K",
+    "id": 1269578,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/93986dc7-4ae1-48d0-9c6c-7906fb81362b/",
+    "uuid": "93986dc7-4ae1-48d0-9c6c-7906fb81362b",
+    "created": "2026-08-28T09:55:52.805433+02:00",
+    "isThumbnail": false,
+    "modified": "2026-08-28T09:55:52.805445+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 12333545,
+    "isFeatured": false,
+    "filename": "assets/404ac17a3ba041df918a9360666cb6aa/files/resolution_2K_a00569f0-acc3-43e3-bd52-5ec0a8407a18.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "thumbnail",
+    "id": 1266002,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/cf88d781-b322-4b65-adfd-ac58570cf164/",
+    "uuid": "cf88d781-b322-4b65-adfd-ac58570cf164",
+    "fileThumbnail": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.96x96_q85_crop-%2C.jpg",
+    "fileThumbnailLarge": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.1024x1024_q85_crop-%2C.jpg",
+    "created": "2026-08-26T12:32:43.374165+02:00",
+    "isThumbnail": true,
+    "modified": "2026-08-26T12:32:43.374184+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 433061,
+    "width": 2880,
+    "height": 2880,
+    "isFeatured": false,
+    "filename": "assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg",
+    "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.256x256_q85_crop-%2C.jpg",
+    "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.512x512_q85_crop-%2C.jpg",
+    "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.1024x1024_q85_crop-%2C.jpg",
+    "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.2048x2048_q85_crop-%2C.jpg",
+    "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.256x256_q85.jpg",
+    "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.512x512_q85.jpg",
+    "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.1024x1024_q85.jpg",
+    "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.2048x2048_q85.jpg",
+    "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.256x256_q85_crop-%2C.jpg.webp?webp_generated=1787904111",
+    "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.512x512_q85_crop-%2C.jpg.webp?webp_generated=1787904111",
+    "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1787904111",
+    "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1787904111",
+    "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.256x256_q85.jpg.webp?webp_generated=1787904111",
+    "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.512x512_q85.jpg.webp?webp_generated=1787904111",
+    "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.1024x1024_q85.jpg.webp?webp_generated=1787904111",
+    "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.2048x2048_q85.jpg.webp?webp_generated=1787904111",
+    "thumbnailSocialUrl": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.1200x630_q85_background-black.jpg",
+    "animationUrl": null,
+    "flexFactor": null
+   },
+   {
+    "fileType": "prxc",
+    "id": 1266004,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/cf45fd09-f29e-42a4-86d4-05accbbfa0fd/",
+    "uuid": "cf45fd09-f29e-42a4-86d4-05accbbfa0fd",
+    "created": "2026-08-26T12:32:51.400378+02:00",
+    "isThumbnail": false,
+    "modified": "2026-08-26T12:32:51.400399+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 28010,
+    "isFeatured": false,
+    "filename": "assets/404ac17a3ba041df918a9360666cb6aa/files/prxc_35167ac7-a00a-47b5-9041-b44b1f2fc823.prxc",
+    "flexFactor": null
+   }
+  ],
+  "filesSize": 56470327,
+  "showMarketingLabels": true,
+  "webpGeneratedTimestamp": 1787904111,
+  "score": 360.0,
+  "ratingsMedian": {
+   "bookmarks": 1.0,
+   "workingHours": 4.0,
+   "quality": 9.0,
+   "virtualPrice": null
+  },
+  "ratingsAverage": {
+   "bookmarks": 1.0,
+   "workingHours": 4.0,
+   "quality": 9.0,
+   "virtualPrice": null
+  },
+  "ratingsCount": {
+   "bookmarks": 23,
+   "workingHours": 1,
+   "quality": 1,
+   "virtualPrice": 0
+  },
+  "ratingsSum": {
+   "bookmarks": 23.0,
+   "workingHours": 4.0,
+   "quality": 9.0,
+   "virtualPrice": null,
+   "score": 360.0
+  },
+  "pageBlocks": null,
+  "access": "free",
+  "accessLabel": "Free",
+  "videoLink": "",
+  "dictParameters": {
+   "sexualizedContent": false,
+   "joinBlenderkitDiscounts": true,
+   "addons": true,
+   "platforms": [
+    "windows-x64",
+    "macos-arm64",
+    "linux-x64",
+    "macos-x64",
+    "windows-arm64"
+   ],
+   "faceCount": 2053,
+   "textureResolutionMax": 4096,
+   "productionLevel": "finished",
+   "procedural": false,
+   "modelStyle": "realistic",
+   "condition": "new",
+   "manufacturer": "Tribesigns",
+   "validatedManufacturer": true,
+   "validatedManufacturerDate": "2026-08-28T07:55:03.344442+00:00",
+   "validatedManufacturerOutput": "Verified via Tribesigns official product pages and multiple major retailers (Lowe’s, Walmart) listing the item as “Tribesigns Wavy Corner Shelf”/Modern 5-Tier Curved Bookshelf; manufacturer matches and variant name is accurate.",
+   "validatedManufacturerActor": "ai",
+   "designVariant": "Wavy Corner Shelf",
+   "purePbr": true,
+   "shaders": [
+    "[principled]"
+   ],
+   "animated": false,
+   "pbrType": "metallic",
+   "uv": true,
+   "textureResolutionMin": 4096,
+   "engines": [
+    "[cycles]"
+   ],
+   "modifiers": [
+    "[]"
+   ],
+   "materials": [
+    "[Light Wood]"
+   ],
+   "rig": false,
+   "simulation": false,
+   "dimensionX": 0.4999,
+   "dimensionY": 0.4801,
+   "dimensionZ": 1.775,
+   "boundBoxMinX": 0.0,
+   "boundBoxMinY": -0.4801,
+   "boundBoxMinZ": 0.0,
+   "boundBoxMaxX": 0.4999,
+   "boundBoxMaxY": 0.0,
+   "boundBoxMaxZ": 1.775,
+   "faceCountRender": 2053,
+   "meshPolyType": "quad_dominant",
+   "manifold": false,
+   "objectCount": 2,
+   "nodeCount": 8,
+   "textureCount": 3,
+   "megapixels": 48,
+   "gltfGeneratedDate": "2026-08-28",
+   "gltfGodotGeneratedDate": "2026-08-28",
+   "processingDate": "2026-08-28T07:57:18.170928+00:00"
+  },
+  "lastResolutionUpload": "2026-08-28T07:55:54.418656+00:00",
+  "lastAnimatedThumbnailUpload": null,
+  "lastZipFileUpload": null,
+  "lastPrxcUpload": "2026-08-26T10:32:51.400378+00:00",
+  "lastVideoUpload": null,
+  "lastPhotoThumbnailUpload": null,
+  "lastGltfUpload": "2026-08-28T07:56:35.914058+00:00",
+  "lastGltfGodotUpload": "2026-08-28T07:57:17.461752+00:00",
+  "lastBlendUpload": "2026-08-28T07:55:40.771223+00:00",
+  "lastThumbnailUpload": "2026-08-26T10:32:43.374165+00:00",
+  "lastWireThumbnailUpload": null,
+  "canDownload": true,
+  "canDownloadError": true,
+  "parameters": [
+   {
+    "parameterType": "sexualizedContent",
+    "value": false
+   },
+   {
+    "parameterType": "joinBlenderkitDiscounts",
+    "value": true
+   },
+   {
+    "parameterType": "addons",
+    "value": true
+   },
+   {
+    "parameterType": "platforms",
+    "value": [
+     "windows-x64",
+     "macos-arm64",
+     "linux-x64",
+     "macos-x64",
+     "windows-arm64"
+    ]
+   },
+   {
+    "parameterType": "faceCount",
+    "value": 2053
+   },
+   {
+    "parameterType": "textureResolutionMax",
+    "value": 4096
+   },
+   {
+    "parameterType": "productionLevel",
+    "value": "finished"
+   },
+   {
+    "parameterType": "procedural",
+    "value": false
+   },
+   {
+    "parameterType": "modelStyle",
+    "value": "realistic"
+   },
+   {
+    "parameterType": "condition",
+    "value": "new"
+   },
+   {
+    "parameterType": "manufacturer",
+    "value": "Tribesigns"
+   },
+   {
+    "parameterType": "validatedManufacturer",
+    "value": true
+   },
+   {
+    "parameterType": "validatedManufacturerDate",
+    "value": "2026-08-28T07:55:03.344442+00:00"
+   },
+   {
+    "parameterType": "validatedManufacturerOutput",
+    "value": "Verified via Tribesigns official product pages and multiple major retailers (Lowe’s, Walmart) listing the item as “Tribesigns Wavy Corner Shelf”/Modern 5-Tier Curved Bookshelf; manufacturer matches and variant name is accurate."
+   },
+   {
+    "parameterType": "validatedManufacturerActor",
+    "value": "ai"
+   },
+   {
+    "parameterType": "designVariant",
+    "value": "Wavy Corner Shelf"
+   },
+   {
+    "parameterType": "purePbr",
+    "value": true
+   },
+   {
+    "parameterType": "shaders",
+    "value": [
+     "[principled]"
+    ]
+   },
+   {
+    "parameterType": "animated",
+    "value": false
+   },
+   {
+    "parameterType": "pbrType",
+    "value": "metallic"
+   },
+   {
+    "parameterType": "uv",
+    "value": true
+   },
+   {
+    "parameterType": "textureResolutionMin",
+    "value": 4096
+   },
+   {
+    "parameterType": "engines",
+    "value": [
+     "[cycles]"
+    ]
+   },
+   {
+    "parameterType": "modifiers",
+    "value": [
+     "[]"
+    ]
+   },
+   {
+    "parameterType": "materials",
+    "value": [
+     "[Light Wood]"
+    ]
+   },
+   {
+    "parameterType": "rig",
+    "value": false
+   },
+   {
+    "parameterType": "simulation",
+    "value": false
+   },
+   {
+    "parameterType": "dimensionX",
+    "value": 0.4999
+   },
+   {
+    "parameterType": "dimensionY",
+    "value": 0.4801
+   },
+   {
+    "parameterType": "dimensionZ",
+    "value": 1.775
+   },
+   {
+    "parameterType": "boundBoxMinX",
+    "value": 0.0
+   },
+   {
+    "parameterType": "boundBoxMinY",
+    "value": -0.4801
+   },
+   {
+    "parameterType": "boundBoxMinZ",
+    "value": 0.0
+   },
+   {
+    "parameterType": "boundBoxMaxX",
+    "value": 0.4999
+   },
+   {
+    "parameterType": "boundBoxMaxY",
+    "value": 0.0
+   },
+   {
+    "parameterType": "boundBoxMaxZ",
+    "value": 1.775
+   },
+   {
+    "parameterType": "faceCountRender",
+    "value": 2053
+   },
+   {
+    "parameterType": "meshPolyType",
+    "value": "quad_dominant"
+   },
+   {
+    "parameterType": "manifold",
+    "value": false
+   },
+   {
+    "parameterType": "objectCount",
+    "value": 2
+   },
+   {
+    "parameterType": "nodeCount",
+    "value": 8
+   },
+   {
+    "parameterType": "textureCount",
+    "value": 3
+   },
+   {
+    "parameterType": "megapixels",
+    "value": 48
+   },
+   {
+    "parameterType": "gltfGeneratedDate",
+    "value": "2026-08-28"
+   },
+   {
+    "parameterType": "gltfGodotGeneratedDate",
+    "value": "2026-08-28"
+   },
+   {
+    "parameterType": "processingDate",
+    "value": "2026-08-28T07:57:18.170928+00:00"
+   }
+  ],
+  "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.256x256_q85_crop-%2C.jpg",
+  "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.512x512_q85_crop-%2C.jpg",
+  "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.1024x1024_q85_crop-%2C.jpg",
+  "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.2048x2048_q85_crop-%2C.jpg",
+  "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.256x256_q85.jpg",
+  "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.512x512_q85.jpg",
+  "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.1024x1024_q85.jpg",
+  "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.2048x2048_q85.jpg",
+  "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.256x256_q85_crop-%2C.jpg.webp?webp_generated=1787904111",
+  "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.512x512_q85_crop-%2C.jpg.webp?webp_generated=1787904111",
+  "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1787904111",
+  "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1787904111",
+  "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.256x256_q85.jpg.webp?webp_generated=1787904111",
+  "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.512x512_q85.jpg.webp?webp_generated=1787904111",
+  "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.1024x1024_q85.jpg.webp?webp_generated=1787904111",
+  "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/404ac17a3ba041df918a9360666cb6aa/files/thumbnail_f15e9353-7c33-47c5-919e-20586a2852b3.jpg.2048x2048_q85.jpg.webp?webp_generated=1787904111"
+ },
+ {
+  "pk": 252179,
+  "url": "https://www.blenderkit.com/api/v1/assets/406ec056-948c-45c5-bfc3-b00d14e6e0b8/",
+  "id": "406ec056-948c-45c5-bfc3-b00d14e6e0b8",
+  "assetBaseId": "32cfe1b8-89c1-4af5-a244-b0b01f871a5d",
+  "versionNumber": 1,
+  "author": {
+   "id": 260035,
+   "firstName": "Dal",
+   "lastName": "Roron",
+   "gravatarHash": "a2e98f451513040572536054f9f2f848",
+   "avatar128": "/avatar-redirect/00754717-319b-4d16-8c05-e3c14179069b/128/",
+   "avatar256": "/avatar-redirect/00754717-319b-4d16-8c05-e3c14179069b/256/",
+   "avatar512": "/avatar-redirect/00754717-319b-4d16-8c05-e3c14179069b/512/",
+   "aboutMe": "When I have a moment, I turn on Blender and create models. Whether it's a mug or a dinosaur, I try to make them look as good as possible. It's my hobby, but also a challenge - how to create something unique with every detail.",
+   "aboutMeUrl": "https://sketchfab.com/dalroron",
+   "fullName": "Dal Roron",
+   "socialNetworks": []
+  },
+  "name": "Modern Geometric Wooden Bookshelf",
+  "displayName": "Modern Geometric Wooden Bookshelf",
+  "description": "Modern geometric wooden bookshelf featuring an open structure with asymmetrically arranged rectangular shelves. Its distinctive architectural form provides practical storage and display space while creating a strong decorative element for contemporary interiors. Textures channel packed",
+  "descriptionHtml": "<p>Modern geometric wooden bookshelf featuring an open structure with asymmetrically arranged rectangular shelves. Its distinctive architectural form provides practical storage and display space while creating a strong decorative element for contemporary interiors. Textures channel packed</p>",
+  "assetType": "model",
+  "category": "bookcase",
+  "isFree": true,
+  "isForSale": false,
+  "basePrice": null,
+  "tags": [
+   "bookshelf",
+   "geometric",
+   "modern",
+   "wooden",
+   "furniture",
+   "shelving",
+   "storage",
+   "display",
+   "interior",
+   "wood"
+  ],
+  "license": "royalty_free",
+  "sourceAppName": "blender",
+  "sourceAppVersion": "5.1.2",
+  "addonVersion": "3.21.0",
+  "created": "2026-08-26T12:41:03.330035+02:00",
+  "lastUserInteraction": "2026-08-28T16:03:58.039628+02:00",
+  "verificationStatus": "validated",
+  "isPrivate": false,
+  "files": [
+   {
+    "fileType": "blend",
+    "id": 1274392,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/91ed8ac6-94db-4e8b-9ac9-ab9c1844cf3e/",
+    "uuid": "91ed8ac6-94db-4e8b-9ac9-ab9c1844cf3e",
+    "created": "2026-09-01T06:41:09.593771+02:00",
+    "isThumbnail": false,
+    "modified": "2026-09-01T06:41:09.593789+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 31655679,
+    "isFeatured": false,
+    "filename": "assets/406ec056948c45c5bfc3b00d14e6e0b8/files/blend_c09f7665-1903-47b3-bc02-ed7533ec0ab7.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "gltf",
+    "id": 1274395,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/8f7d797a-f092-4dd3-b818-84e08925579f/",
+    "uuid": "8f7d797a-f092-4dd3-b818-84e08925579f",
+    "created": "2026-09-01T06:41:32.380929+02:00",
+    "isThumbnail": false,
+    "modified": "2026-09-01T06:41:32.380943+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 20280,
+    "isFeatured": false,
+    "filename": "assets/406ec056948c45c5bfc3b00d14e6e0b8/files/gltf_ee60d823-890b-4e42-9e82-ddeca4a770d8.glb",
+    "flexFactor": null
+   },
+   {
+    "fileType": "gltf_godot",
+    "id": 1274396,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/9e79af65-d062-4856-ad68-4bda09ee884d/",
+    "uuid": "9e79af65-d062-4856-ad68-4bda09ee884d",
+    "created": "2026-09-01T06:41:42.785414+02:00",
+    "isThumbnail": false,
+    "modified": "2026-09-01T06:41:42.785434+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 128568,
+    "isFeatured": false,
+    "filename": "assets/406ec056948c45c5bfc3b00d14e6e0b8/files/gltf_godot_209dd19c-74ff-4467-aa65-751f3a652702.glb",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_0_5K",
+    "id": 1274394,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/d403134b-b8f4-4b23-8a27-101121adceee/",
+    "uuid": "d403134b-b8f4-4b23-8a27-101121adceee",
+    "created": "2026-09-01T06:41:23.006310+02:00",
+    "isThumbnail": false,
+    "modified": "2026-09-01T06:41:23.006323+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 773891,
+    "isFeatured": false,
+    "filename": "assets/406ec056948c45c5bfc3b00d14e6e0b8/files/resolution_0_5K_a5310cd7-cb58-49be-9f2f-84bca1b2373c.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_1K",
+    "id": 1274393,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/a61d4ba0-46a2-44d1-852f-c02c3345095a/",
+    "uuid": "a61d4ba0-46a2-44d1-852f-c02c3345095a",
+    "created": "2026-09-01T06:41:22.375132+02:00",
+    "isThumbnail": false,
+    "modified": "2026-09-01T06:41:22.375151+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 2561571,
+    "isFeatured": false,
+    "filename": "assets/406ec056948c45c5bfc3b00d14e6e0b8/files/resolution_1K_27bfeed1-497a-46c4-88fb-11b249df8e5e.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "thumbnail",
+    "id": 1266021,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/18d84df0-8059-44e2-9ab7-d7a0165b4f89/",
+    "uuid": "18d84df0-8059-44e2-9ab7-d7a0165b4f89",
+    "fileThumbnail": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.96x96_q85_crop-%2C.jpg",
+    "fileThumbnailLarge": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.1024x1024_q85_crop-%2C.jpg",
+    "created": "2026-08-26T12:41:19.863270+02:00",
+    "isThumbnail": true,
+    "modified": "2026-08-26T12:41:19.863285+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 430636,
+    "width": 2880,
+    "height": 2880,
+    "isFeatured": false,
+    "filename": "assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg",
+    "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.256x256_q85_crop-%2C.jpg",
+    "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.512x512_q85_crop-%2C.jpg",
+    "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.1024x1024_q85_crop-%2C.jpg",
+    "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.2048x2048_q85_crop-%2C.jpg",
+    "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.256x256_q85.jpg",
+    "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.512x512_q85.jpg",
+    "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.1024x1024_q85.jpg",
+    "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.2048x2048_q85.jpg",
+    "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.256x256_q85_crop-%2C.jpg.webp?webp_generated=1788202272",
+    "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.512x512_q85_crop-%2C.jpg.webp?webp_generated=1788202272",
+    "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1788202272",
+    "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1788202272",
+    "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.256x256_q85.jpg.webp?webp_generated=1788202272",
+    "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.512x512_q85.jpg.webp?webp_generated=1788202272",
+    "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.1024x1024_q85.jpg.webp?webp_generated=1788202272",
+    "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.2048x2048_q85.jpg.webp?webp_generated=1788202272",
+    "thumbnailSocialUrl": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.1200x630_q85_background-black.jpg",
+    "animationUrl": null,
+    "flexFactor": null
+   },
+   {
+    "fileType": "prxc",
+    "id": 1270471,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/9f01dba1-01d6-4223-8ed5-d59194bb6a9b/",
+    "uuid": "9f01dba1-01d6-4223-8ed5-d59194bb6a9b",
+    "created": "2026-08-28T16:03:57.648763+02:00",
+    "isThumbnail": false,
+    "modified": "2026-08-28T16:03:57.648776+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 24139,
+    "isFeatured": false,
+    "filename": "assets/406ec056948c45c5bfc3b00d14e6e0b8/files/prxc_a65c8277-a5c2-4a5e-8953-822f22034d5c.prxc",
+    "flexFactor": null
+   }
+  ],
+  "filesSize": 35594764,
+  "showMarketingLabels": true,
+  "webpGeneratedTimestamp": 1788202272,
+  "score": 270.0,
+  "ratingsMedian": {
+   "bookmarks": 1.0,
+   "workingHours": 3.0,
+   "quality": 9.0,
+   "virtualPrice": null
+  },
+  "ratingsAverage": {
+   "bookmarks": 1.0,
+   "workingHours": 3.0,
+   "quality": 9.0,
+   "virtualPrice": null
+  },
+  "ratingsCount": {
+   "bookmarks": 14,
+   "workingHours": 1,
+   "quality": 1,
+   "virtualPrice": 0
+  },
+  "ratingsSum": {
+   "bookmarks": 14.0,
+   "workingHours": 3.0,
+   "quality": 9.0,
+   "virtualPrice": null,
+   "score": 270.0
+  },
+  "pageBlocks": null,
+  "access": "free",
+  "accessLabel": "Free",
+  "videoLink": "",
+  "dictParameters": {
+   "sexualizedContent": false,
+   "joinBlenderkitDiscounts": true,
+   "addons": true,
+   "platforms": [
+    "windows-x64",
+    "macos-arm64",
+    "linux-x64",
+    "macos-x64",
+    "windows-arm64"
+   ],
+   "faceCount": 1080,
+   "textureResolutionMax": 4096,
+   "productionLevel": "finished",
+   "procedural": false,
+   "modelStyle": "realistic",
+   "condition": "new",
+   "manufacturer": "East Urban Home",
+   "validatedManufacturer": true,
+   "validatedManufacturerDate": "2026-08-31T18:50:10.326461+00:00",
+   "validatedManufacturerOutput": "Manufacturer and product verified as East Urban Home “Carthell Geometric Bookcase”; variant had a trailing typo corrected from “Bookcasea” to “Bookcase”. ([wayfair.com](https://www.wayfair.com/furniture/pdp/east-urban-home-carthell-geometric-bookcase-w011012161.html?utm_source=openai))\ncorrections applied: variant=Carthell Geometric Bookcase",
+   "validatedManufacturerActor": "ai",
+   "designVariant": "Carthell Geometric Bookcase",
+   "purePbr": true,
+   "shaders": [
+    "[principled]"
+   ],
+   "animated": false,
+   "pbrType": "metallic",
+   "uv": true,
+   "textureResolutionMin": 4096,
+   "engines": [
+    "[cycles]"
+   ],
+   "modifiers": [
+    "[]"
+   ],
+   "materials": [
+    "[Light Wood]"
+   ],
+   "rig": false,
+   "simulation": false,
+   "dimensionX": 0.8,
+   "dimensionY": 0.25,
+   "dimensionZ": 1.5,
+   "boundBoxMinX": -0.4,
+   "boundBoxMinY": -0.125,
+   "boundBoxMinZ": 0.0,
+   "boundBoxMaxX": 0.4,
+   "boundBoxMaxY": 0.125,
+   "boundBoxMaxZ": 1.5,
+   "faceCountRender": 1080,
+   "meshPolyType": "quad",
+   "manifold": true,
+   "objectCount": 2,
+   "nodeCount": 8,
+   "textureCount": 3,
+   "megapixels": 48,
+   "gltfGeneratedDate": "2026-09-01",
+   "gltfGodotGeneratedDate": "2026-09-01",
+   "processingDate": "2026-09-01T04:41:43.457863+00:00"
+  },
+  "lastResolutionUpload": "2026-09-01T04:41:23.006310+00:00",
+  "lastAnimatedThumbnailUpload": null,
+  "lastZipFileUpload": null,
+  "lastPrxcUpload": "2026-08-28T14:03:57.648763+00:00",
+  "lastVideoUpload": null,
+  "lastPhotoThumbnailUpload": null,
+  "lastGltfUpload": "2026-09-01T04:41:32.380929+00:00",
+  "lastGltfGodotUpload": "2026-09-01T04:41:42.785414+00:00",
+  "lastBlendUpload": "2026-09-01T04:41:09.593771+00:00",
+  "lastThumbnailUpload": "2026-08-26T10:41:19.863270+00:00",
+  "lastWireThumbnailUpload": null,
+  "canDownload": true,
+  "canDownloadError": true,
+  "parameters": [
+   {
+    "parameterType": "sexualizedContent",
+    "value": false
+   },
+   {
+    "parameterType": "joinBlenderkitDiscounts",
+    "value": true
+   },
+   {
+    "parameterType": "addons",
+    "value": true
+   },
+   {
+    "parameterType": "platforms",
+    "value": [
+     "windows-x64",
+     "macos-arm64",
+     "linux-x64",
+     "macos-x64",
+     "windows-arm64"
+    ]
+   },
+   {
+    "parameterType": "faceCount",
+    "value": 1080
+   },
+   {
+    "parameterType": "textureResolutionMax",
+    "value": 4096
+   },
+   {
+    "parameterType": "productionLevel",
+    "value": "finished"
+   },
+   {
+    "parameterType": "procedural",
+    "value": false
+   },
+   {
+    "parameterType": "modelStyle",
+    "value": "realistic"
+   },
+   {
+    "parameterType": "condition",
+    "value": "new"
+   },
+   {
+    "parameterType": "manufacturer",
+    "value": "East Urban Home"
+   },
+   {
+    "parameterType": "validatedManufacturer",
+    "value": true
+   },
+   {
+    "parameterType": "validatedManufacturerDate",
+    "value": "2026-08-31T18:50:10.326461+00:00"
+   },
+   {
+    "parameterType": "validatedManufacturerOutput",
+    "value": "Manufacturer and product verified as East Urban Home “Carthell Geometric Bookcase”; variant had a trailing typo corrected from “Bookcasea” to “Bookcase”. ([wayfair.com](https://www.wayfair.com/furniture/pdp/east-urban-home-carthell-geometric-bookcase-w011012161.html?utm_source=openai))\ncorrections applied: variant=Carthell Geometric Bookcase"
+   },
+   {
+    "parameterType": "validatedManufacturerActor",
+    "value": "ai"
+   },
+   {
+    "parameterType": "designVariant",
+    "value": "Carthell Geometric Bookcase"
+   },
+   {
+    "parameterType": "purePbr",
+    "value": true
+   },
+   {
+    "parameterType": "shaders",
+    "value": [
+     "[principled]"
+    ]
+   },
+   {
+    "parameterType": "animated",
+    "value": false
+   },
+   {
+    "parameterType": "pbrType",
+    "value": "metallic"
+   },
+   {
+    "parameterType": "uv",
+    "value": true
+   },
+   {
+    "parameterType": "textureResolutionMin",
+    "value": 4096
+   },
+   {
+    "parameterType": "engines",
+    "value": [
+     "[cycles]"
+    ]
+   },
+   {
+    "parameterType": "modifiers",
+    "value": [
+     "[]"
+    ]
+   },
+   {
+    "parameterType": "materials",
+    "value": [
+     "[Light Wood]"
+    ]
+   },
+   {
+    "parameterType": "rig",
+    "value": false
+   },
+   {
+    "parameterType": "simulation",
+    "value": false
+   },
+   {
+    "parameterType": "dimensionX",
+    "value": 0.8
+   },
+   {
+    "parameterType": "dimensionY",
+    "value": 0.25
+   },
+   {
+    "parameterType": "dimensionZ",
+    "value": 1.5
+   },
+   {
+    "parameterType": "boundBoxMinX",
+    "value": -0.4
+   },
+   {
+    "parameterType": "boundBoxMinY",
+    "value": -0.125
+   },
+   {
+    "parameterType": "boundBoxMinZ",
+    "value": 0.0
+   },
+   {
+    "parameterType": "boundBoxMaxX",
+    "value": 0.4
+   },
+   {
+    "parameterType": "boundBoxMaxY",
+    "value": 0.125
+   },
+   {
+    "parameterType": "boundBoxMaxZ",
+    "value": 1.5
+   },
+   {
+    "parameterType": "faceCountRender",
+    "value": 1080
+   },
+   {
+    "parameterType": "meshPolyType",
+    "value": "quad"
+   },
+   {
+    "parameterType": "manifold",
+    "value": true
+   },
+   {
+    "parameterType": "objectCount",
+    "value": 2
+   },
+   {
+    "parameterType": "nodeCount",
+    "value": 8
+   },
+   {
+    "parameterType": "textureCount",
+    "value": 3
+   },
+   {
+    "parameterType": "megapixels",
+    "value": 48
+   },
+   {
+    "parameterType": "gltfGeneratedDate",
+    "value": "2026-09-01"
+   },
+   {
+    "parameterType": "gltfGodotGeneratedDate",
+    "value": "2026-09-01"
+   },
+   {
+    "parameterType": "processingDate",
+    "value": "2026-09-01T04:41:43.457863+00:00"
+   }
+  ],
+  "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.256x256_q85_crop-%2C.jpg",
+  "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.512x512_q85_crop-%2C.jpg",
+  "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.1024x1024_q85_crop-%2C.jpg",
+  "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.2048x2048_q85_crop-%2C.jpg",
+  "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.256x256_q85.jpg",
+  "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.512x512_q85.jpg",
+  "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.1024x1024_q85.jpg",
+  "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.2048x2048_q85.jpg",
+  "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.256x256_q85_crop-%2C.jpg.webp?webp_generated=1788202272",
+  "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.512x512_q85_crop-%2C.jpg.webp?webp_generated=1788202272",
+  "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1788202272",
+  "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1788202272",
+  "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.256x256_q85.jpg.webp?webp_generated=1788202272",
+  "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.512x512_q85.jpg.webp?webp_generated=1788202272",
+  "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.1024x1024_q85.jpg.webp?webp_generated=1788202272",
+  "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/406ec056948c45c5bfc3b00d14e6e0b8/files/thumbnail_bb4567a5-7346-4623-ada3-7fadcbdcccc0.jpg.2048x2048_q85.jpg.webp?webp_generated=1788202272"
+ },
+ {
+  "pk": 252182,
+  "url": "https://www.blenderkit.com/api/v1/assets/16834408-1b0e-4704-9fa2-a303da24248e/",
+  "id": "16834408-1b0e-4704-9fa2-a303da24248e",
+  "assetBaseId": "a68315d1-39c9-4a59-85db-99ee8bccb3e8",
+  "versionNumber": 1,
+  "author": {
+   "id": 260035,
+   "firstName": "Dal",
+   "lastName": "Roron",
+   "gravatarHash": "a2e98f451513040572536054f9f2f848",
+   "avatar128": "/avatar-redirect/00754717-319b-4d16-8c05-e3c14179069b/128/",
+   "avatar256": "/avatar-redirect/00754717-319b-4d16-8c05-e3c14179069b/256/",
+   "avatar512": "/avatar-redirect/00754717-319b-4d16-8c05-e3c14179069b/512/",
+   "aboutMe": "When I have a moment, I turn on Blender and create models. Whether it's a mug or a dinosaur, I try to make them look as good as possible. It's my hobby, but also a challenge - how to create something unique with every detail.",
+   "aboutMeUrl": "https://sketchfab.com/dalroron",
+   "fullName": "Dal Roron",
+   "socialNetworks": []
+  },
+  "name": "Modern Geometric Wooden Bookshelf",
+  "displayName": "Modern Geometric Wooden Bookshelf",
+  "description": "Modern geometric wooden bookshelf featuring a contrasting two-tone finish and an open structure with asymmetrically arranged rectangular shelves. Its distinctive architectural form provides practical storage and display space while creating a strong decorative element for contemporary interiors. Textures channel packed",
+  "descriptionHtml": "<p>Modern geometric wooden bookshelf featuring a contrasting two-tone finish and an open structure with asymmetrically arranged rectangular shelves. Its distinctive architectural form provides practical storage and display space while creating a strong decorative element for contemporary interiors. Textures channel packed</p>",
+  "assetType": "model",
+  "category": "bookcase",
+  "isFree": true,
+  "isForSale": false,
+  "basePrice": null,
+  "tags": [
+   "bookshelf",
+   "geometric",
+   "modern",
+   "wooden",
+   "furniture",
+   "shelving",
+   "storage",
+   "display",
+   "interior",
+   "twotone"
+  ],
+  "license": "royalty_free",
+  "sourceAppName": "blender",
+  "sourceAppVersion": "5.1.2",
+  "addonVersion": "3.21.0",
+  "created": "2026-08-26T12:45:53.984404+02:00",
+  "lastUserInteraction": "2026-08-28T16:02:55.526101+02:00",
+  "verificationStatus": "validated",
+  "isPrivate": false,
+  "files": [
+   {
+    "fileType": "blend",
+    "id": 1274082,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/05fa4907-2d01-4245-b7f2-811fa4e2631c/",
+    "uuid": "05fa4907-2d01-4245-b7f2-811fa4e2631c",
+    "created": "2026-08-31T20:50:52.510371+02:00",
+    "isThumbnail": false,
+    "modified": "2026-08-31T20:50:52.510381+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 34549907,
+    "isFeatured": false,
+    "filename": "assets/168344081b0e47049fa2a303da24248e/files/blend_a836aef7-7997-4cd7-a211-980cf7be51b8.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "gltf",
+    "id": 1274086,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/0454ff19-81cf-4b08-80b3-9bc014fc8d63/",
+    "uuid": "0454ff19-81cf-4b08-80b3-9bc014fc8d63",
+    "created": "2026-08-31T20:51:15.725126+02:00",
+    "isThumbnail": false,
+    "modified": "2026-08-31T20:51:15.725135+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 20332,
+    "isFeatured": false,
+    "filename": "assets/168344081b0e47049fa2a303da24248e/files/gltf_6fbedddb-c81d-4d70-b5d5-d0e497abfbd3.glb",
+    "flexFactor": null
+   },
+   {
+    "fileType": "gltf_godot",
+    "id": 1274087,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/8fc043f8-b7f4-407b-8d31-eb8f7b131b72/",
+    "uuid": "8fc043f8-b7f4-407b-8d31-eb8f7b131b72",
+    "created": "2026-08-31T20:51:24.910827+02:00",
+    "isThumbnail": false,
+    "modified": "2026-08-31T20:51:24.910836+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 128624,
+    "isFeatured": false,
+    "filename": "assets/168344081b0e47049fa2a303da24248e/files/gltf_godot_dbe4421c-4edf-4cfa-8871-c05c7ac690e8.glb",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_0_5K",
+    "id": 1274085,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/b285be64-01b6-4cc2-8342-a9f40c8691f0/",
+    "uuid": "b285be64-01b6-4cc2-8342-a9f40c8691f0",
+    "created": "2026-08-31T20:51:06.674337+02:00",
+    "isThumbnail": false,
+    "modified": "2026-08-31T20:51:06.674351+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 923188,
+    "isFeatured": false,
+    "filename": "assets/168344081b0e47049fa2a303da24248e/files/resolution_0_5K_4fcd0d69-0420-4924-a4b5-203d483e5926.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_1K",
+    "id": 1274084,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/fa22b010-a082-43d7-9e17-d38c7a704c37/",
+    "uuid": "fa22b010-a082-43d7-9e17-d38c7a704c37",
+    "created": "2026-08-31T20:51:05.137157+02:00",
+    "isThumbnail": false,
+    "modified": "2026-08-31T20:51:05.137166+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 3128941,
+    "isFeatured": false,
+    "filename": "assets/168344081b0e47049fa2a303da24248e/files/resolution_1K_6ee2cf06-0e0e-45c8-90e8-a18568591588.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_2K",
+    "id": 1274083,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/5b9964b3-f5f3-43fd-9977-8f6ac372bcbc/",
+    "uuid": "5b9964b3-f5f3-43fd-9977-8f6ac372bcbc",
+    "created": "2026-08-31T20:51:04.308300+02:00",
+    "isThumbnail": false,
+    "modified": "2026-08-31T20:51:04.308311+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 11976030,
+    "isFeatured": false,
+    "filename": "assets/168344081b0e47049fa2a303da24248e/files/resolution_2K_9dda78c8-c3cd-49b3-a2f1-9d0dca7eccd3.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "thumbnail",
+    "id": 1266031,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/0d077a22-6ea6-456d-a92e-7e1d02748f19/",
+    "uuid": "0d077a22-6ea6-456d-a92e-7e1d02748f19",
+    "fileThumbnail": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.96x96_q85_crop-%2C.jpg",
+    "fileThumbnailLarge": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.1024x1024_q85_crop-%2C.jpg",
+    "created": "2026-08-26T12:46:10.837601+02:00",
+    "isThumbnail": true,
+    "modified": "2026-08-26T12:46:10.837616+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 431698,
+    "width": 2880,
+    "height": 2880,
+    "isFeatured": false,
+    "filename": "assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg",
+    "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.256x256_q85_crop-%2C.jpg",
+    "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.512x512_q85_crop-%2C.jpg",
+    "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.1024x1024_q85_crop-%2C.jpg",
+    "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.2048x2048_q85_crop-%2C.jpg",
+    "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.256x256_q85.jpg",
+    "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.512x512_q85.jpg",
+    "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.1024x1024_q85.jpg",
+    "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.2048x2048_q85.jpg",
+    "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.256x256_q85_crop-%2C.jpg.webp?webp_generated=1788202276",
+    "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.512x512_q85_crop-%2C.jpg.webp?webp_generated=1788202276",
+    "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1788202276",
+    "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1788202276",
+    "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.256x256_q85.jpg.webp?webp_generated=1788202276",
+    "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.512x512_q85.jpg.webp?webp_generated=1788202276",
+    "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.1024x1024_q85.jpg.webp?webp_generated=1788202276",
+    "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.2048x2048_q85.jpg.webp?webp_generated=1788202276",
+    "thumbnailSocialUrl": null,
+    "animationUrl": null,
+    "flexFactor": null
+   },
+   {
+    "fileType": "prxc",
+    "id": 1270469,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/b611e594-7f14-4326-95e4-189a58c506d6/",
+    "uuid": "b611e594-7f14-4326-95e4-189a58c506d6",
+    "created": "2026-08-28T16:02:55.122460+02:00",
+    "isThumbnail": false,
+    "modified": "2026-08-28T16:02:55.122474+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 24139,
+    "isFeatured": false,
+    "filename": "assets/168344081b0e47049fa2a303da24248e/files/prxc_b3057d87-c751-4247-8da9-5f57df134a37.prxc",
+    "flexFactor": null
+   }
+  ],
+  "filesSize": 51182859,
+  "showMarketingLabels": true,
+  "webpGeneratedTimestamp": 1788202276,
+  "score": 157.5,
+  "ratingsMedian": {
+   "bookmarks": 1.0,
+   "workingHours": 1.75,
+   "quality": 9.0,
+   "virtualPrice": null
+  },
+  "ratingsAverage": {
+   "bookmarks": 1.0,
+   "workingHours": 1.75,
+   "quality": 9.0,
+   "virtualPrice": null
+  },
+  "ratingsCount": {
+   "bookmarks": 18,
+   "workingHours": 2,
+   "quality": 1,
+   "virtualPrice": 0
+  },
+  "ratingsSum": {
+   "bookmarks": 18.0,
+   "workingHours": 3.5,
+   "quality": 9.0,
+   "virtualPrice": null,
+   "score": 157.5
+  },
+  "pageBlocks": null,
+  "access": "free",
+  "accessLabel": "Free",
+  "videoLink": "",
+  "dictParameters": {
+   "sexualizedContent": false,
+   "joinBlenderkitDiscounts": true,
+   "addons": true,
+   "platforms": [
+    "windows-x64",
+    "macos-arm64",
+    "linux-x64",
+    "macos-x64",
+    "windows-arm64"
+   ],
+   "faceCount": 1080,
+   "textureResolutionMax": 4096,
+   "productionLevel": "finished",
+   "procedural": false,
+   "modelStyle": "realistic",
+   "condition": "new",
+   "manufacturer": "East Urban Home",
+   "validatedManufacturer": true,
+   "validatedManufacturerDate": "2026-08-31T18:50:06.035178+00:00",
+   "validatedManufacturerOutput": "Verified on Wayfair: “Carthell Geometric Bookcase” listed under East Urban Home; no named designer, collection, or year provided.",
+   "validatedManufacturerActor": "ai",
+   "designVariant": "Carthell Geometric Bookcase",
+   "purePbr": true,
+   "shaders": [
+    "[principled]"
+   ],
+   "animated": false,
+   "pbrType": "metallic",
+   "uv": true,
+   "textureResolutionMin": 4096,
+   "engines": [
+    "[cycles]"
+   ],
+   "modifiers": [
+    "[]"
+   ],
+   "materials": [
+    "[Black and Light Wood]"
+   ],
+   "rig": false,
+   "simulation": false,
+   "dimensionX": 0.8,
+   "dimensionY": 0.25,
+   "dimensionZ": 1.5,
+   "boundBoxMinX": -0.4,
+   "boundBoxMinY": -0.125,
+   "boundBoxMinZ": 0.0,
+   "boundBoxMaxX": 0.4,
+   "boundBoxMaxY": 0.125,
+   "boundBoxMaxZ": 1.5,
+   "faceCountRender": 1080,
+   "meshPolyType": "quad",
+   "manifold": true,
+   "objectCount": 2,
+   "nodeCount": 8,
+   "textureCount": 3,
+   "megapixels": 48,
+   "gltfGeneratedDate": "2026-08-31",
+   "gltfGodotGeneratedDate": "2026-08-31",
+   "processingDate": "2026-08-31T18:51:25.527446+00:00"
+  },
+  "lastZipFileUpload": null,
+  "lastPhotoThumbnailUpload": null,
+  "lastAnimatedThumbnailUpload": null,
+  "lastGltfGodotUpload": "2026-08-31T18:51:24.910827+00:00",
+  "lastWireThumbnailUpload": null,
+  "lastVideoUpload": null,
+  "lastPrxcUpload": "2026-08-28T14:02:55.122460+00:00",
+  "lastResolutionUpload": "2026-08-31T18:51:06.674337+00:00",
+  "lastThumbnailUpload": "2026-08-26T10:46:10.837601+00:00",
+  "lastGltfUpload": "2026-08-31T18:51:15.725126+00:00",
+  "lastBlendUpload": "2026-08-31T18:50:52.510371+00:00",
+  "canDownload": true,
+  "canDownloadError": true,
+  "parameters": [
+   {
+    "parameterType": "sexualizedContent",
+    "value": false
+   },
+   {
+    "parameterType": "joinBlenderkitDiscounts",
+    "value": true
+   },
+   {
+    "parameterType": "addons",
+    "value": true
+   },
+   {
+    "parameterType": "platforms",
+    "value": [
+     "windows-x64",
+     "macos-arm64",
+     "linux-x64",
+     "macos-x64",
+     "windows-arm64"
+    ]
+   },
+   {
+    "parameterType": "faceCount",
+    "value": 1080
+   },
+   {
+    "parameterType": "textureResolutionMax",
+    "value": 4096
+   },
+   {
+    "parameterType": "productionLevel",
+    "value": "finished"
+   },
+   {
+    "parameterType": "procedural",
+    "value": false
+   },
+   {
+    "parameterType": "modelStyle",
+    "value": "realistic"
+   },
+   {
+    "parameterType": "condition",
+    "value": "new"
+   },
+   {
+    "parameterType": "manufacturer",
+    "value": "East Urban Home"
+   },
+   {
+    "parameterType": "validatedManufacturer",
+    "value": true
+   },
+   {
+    "parameterType": "validatedManufacturerDate",
+    "value": "2026-08-31T18:50:06.035178+00:00"
+   },
+   {
+    "parameterType": "validatedManufacturerOutput",
+    "value": "Verified on Wayfair: “Carthell Geometric Bookcase” listed under East Urban Home; no named designer, collection, or year provided."
+   },
+   {
+    "parameterType": "validatedManufacturerActor",
+    "value": "ai"
+   },
+   {
+    "parameterType": "designVariant",
+    "value": "Carthell Geometric Bookcase"
+   },
+   {
+    "parameterType": "purePbr",
+    "value": true
+   },
+   {
+    "parameterType": "shaders",
+    "value": [
+     "[principled]"
+    ]
+   },
+   {
+    "parameterType": "animated",
+    "value": false
+   },
+   {
+    "parameterType": "pbrType",
+    "value": "metallic"
+   },
+   {
+    "parameterType": "uv",
+    "value": true
+   },
+   {
+    "parameterType": "textureResolutionMin",
+    "value": 4096
+   },
+   {
+    "parameterType": "engines",
+    "value": [
+     "[cycles]"
+    ]
+   },
+   {
+    "parameterType": "modifiers",
+    "value": [
+     "[]"
+    ]
+   },
+   {
+    "parameterType": "materials",
+    "value": [
+     "[Black and Light Wood]"
+    ]
+   },
+   {
+    "parameterType": "rig",
+    "value": false
+   },
+   {
+    "parameterType": "simulation",
+    "value": false
+   },
+   {
+    "parameterType": "dimensionX",
+    "value": 0.8
+   },
+   {
+    "parameterType": "dimensionY",
+    "value": 0.25
+   },
+   {
+    "parameterType": "dimensionZ",
+    "value": 1.5
+   },
+   {
+    "parameterType": "boundBoxMinX",
+    "value": -0.4
+   },
+   {
+    "parameterType": "boundBoxMinY",
+    "value": -0.125
+   },
+   {
+    "parameterType": "boundBoxMinZ",
+    "value": 0.0
+   },
+   {
+    "parameterType": "boundBoxMaxX",
+    "value": 0.4
+   },
+   {
+    "parameterType": "boundBoxMaxY",
+    "value": 0.125
+   },
+   {
+    "parameterType": "boundBoxMaxZ",
+    "value": 1.5
+   },
+   {
+    "parameterType": "faceCountRender",
+    "value": 1080
+   },
+   {
+    "parameterType": "meshPolyType",
+    "value": "quad"
+   },
+   {
+    "parameterType": "manifold",
+    "value": true
+   },
+   {
+    "parameterType": "objectCount",
+    "value": 2
+   },
+   {
+    "parameterType": "nodeCount",
+    "value": 8
+   },
+   {
+    "parameterType": "textureCount",
+    "value": 3
+   },
+   {
+    "parameterType": "megapixels",
+    "value": 48
+   },
+   {
+    "parameterType": "gltfGeneratedDate",
+    "value": "2026-08-31"
+   },
+   {
+    "parameterType": "gltfGodotGeneratedDate",
+    "value": "2026-08-31"
+   },
+   {
+    "parameterType": "processingDate",
+    "value": "2026-08-31T18:51:25.527446+00:00"
+   }
+  ],
+  "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.256x256_q85_crop-%2C.jpg",
+  "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.512x512_q85_crop-%2C.jpg",
+  "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.1024x1024_q85_crop-%2C.jpg",
+  "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.2048x2048_q85_crop-%2C.jpg",
+  "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.256x256_q85.jpg",
+  "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.512x512_q85.jpg",
+  "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.1024x1024_q85.jpg",
+  "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.2048x2048_q85.jpg",
+  "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.256x256_q85_crop-%2C.jpg.webp?webp_generated=1788202276",
+  "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.512x512_q85_crop-%2C.jpg.webp?webp_generated=1788202276",
+  "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1788202276",
+  "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1788202276",
+  "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.256x256_q85.jpg.webp?webp_generated=1788202276",
+  "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.512x512_q85.jpg.webp?webp_generated=1788202276",
+  "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.1024x1024_q85.jpg.webp?webp_generated=1788202276",
+  "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/168344081b0e47049fa2a303da24248e/files/thumbnail_2ac774c7-ac7a-449b-9aa7-1fa1c8cd40c6.jpg.2048x2048_q85.jpg.webp?webp_generated=1788202276"
+ },
+ {
+  "pk": 84547,
+  "url": "https://www.blenderkit.com/api/v1/assets/23bf6eb8-f6ea-4ab3-b901-e67da979c1dd/",
+  "id": "23bf6eb8-f6ea-4ab3-b901-e67da979c1dd",
+  "assetBaseId": "10d82ce0-8a34-4048-812f-4effdff4aee4",
+  "versionNumber": 1,
+  "author": {
+   "id": 53515,
+   "firstName": "Julien",
+   "lastName": "Winé",
+   "gravatarHash": "c01cf00281ff9493ab54b6bc4399da32",
+   "avatar128": "/avatar-redirect/c69287e3-ea0e-4ca6-9678-23879e4627e4/128/",
+   "avatar256": "/avatar-redirect/c69287e3-ea0e-4ca6-9678-23879e4627e4/256/",
+   "avatar512": "/avatar-redirect/c69287e3-ea0e-4ca6-9678-23879e4627e4/512/",
+   "aboutMe": "",
+   "aboutMeUrl": "https://jwblenderassetcreator.blogspot.com/2024/03/blender-assets.html",
+   "fullName": "Julien Winé",
+   "socialNetworks": []
+  },
+  "name": "Ikea Billy Library 80x106cm",
+  "displayName": "Ikea Billy Bookshelf 80x106cm",
+  "description": "Ikea Billy books library with lightweight geometry for architecture. Four different material included. Whole collection available.",
+  "descriptionHtml": "<p>Ikea Billy books library with lightweight geometry for architecture. Four different material included. Whole collection available.</p>",
+  "assetType": "model",
+  "category": "office-storage",
+  "isFree": true,
+  "isForSale": false,
+  "basePrice": null,
+  "tags": [
+   "book",
+   "shelf",
+   "bookcase",
+   "bookshelf"
+  ],
+  "license": "royalty_free",
+  "sourceAppName": "blender",
+  "sourceAppVersion": "4.0.2",
+  "addonVersion": "3.11.0",
+  "created": "2024-03-17T10:17:42.303557+01:00",
+  "lastUserInteraction": "2024-03-17T10:19:11.862942+01:00",
+  "verificationStatus": "validated",
+  "isPrivate": false,
+  "files": [
+   {
+    "fileType": "blend",
+    "id": 346191,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/9ca51062-3c1d-4654-bdd9-92416011ef2d/",
+    "uuid": "9ca51062-3c1d-4654-bdd9-92416011ef2d",
+    "created": "2024-03-17T10:19:11.497562+01:00",
+    "isThumbnail": false,
+    "modified": "2024-04-24T11:06:18.715463+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 59088618,
+    "isFeatured": false,
+    "filename": "assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/blend_13ba9641-d8dd-4bf9-8ee4-7f42cfc67652.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_0_5K",
+    "id": 347649,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/809a902a-4686-492a-9c3a-349db618f8aa/",
+    "uuid": "809a902a-4686-492a-9c3a-349db618f8aa",
+    "created": "2024-03-19T16:48:23.657018+01:00",
+    "isThumbnail": false,
+    "modified": "2024-04-24T11:06:18.736367+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 388397,
+    "isFeatured": false,
+    "filename": "assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/resolution_0_5K_ea3443d1-2df6-4ce9-81e6-e1775600191a.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_1K",
+    "id": 347648,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/a1a9b127-eb50-4865-92ec-790a0d6d0d29/",
+    "uuid": "a1a9b127-eb50-4865-92ec-790a0d6d0d29",
+    "created": "2024-03-19T16:48:23.119982+01:00",
+    "isThumbnail": false,
+    "modified": "2024-04-24T11:06:18.758940+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 1180437,
+    "isFeatured": false,
+    "filename": "assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/resolution_1K_8cdad763-e8ec-45f4-9bac-37937e205bf3.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "resolution_2K",
+    "id": 347647,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/19adc419-306a-4d38-a14b-f41eba46b6f2/",
+    "uuid": "19adc419-306a-4d38-a14b-f41eba46b6f2",
+    "created": "2024-03-19T16:48:22.525296+01:00",
+    "isThumbnail": false,
+    "modified": "2024-04-24T11:06:18.779300+02:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 3864087,
+    "isFeatured": false,
+    "filename": "assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/resolution_2K_08cdb076-e88f-4b47-ac5f-587206d0cf88.blend",
+    "flexFactor": null
+   },
+   {
+    "fileType": "thumbnail",
+    "id": 346190,
+    "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/13b95839-412b-4dad-9ee1-490590dbd5ac/",
+    "uuid": "13b95839-412b-4dad-9ee1-490590dbd5ac",
+    "fileThumbnail": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.96x96_q85_crop-%2C.jpg",
+    "fileThumbnailLarge": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.1024x1024_q85_crop-%2C.jpg",
+    "created": "2024-03-17T10:17:51.085410+01:00",
+    "isThumbnail": true,
+    "modified": "2025-12-22T22:01:10.309368+01:00",
+    "mimeType": null,
+    "resolution": null,
+    "fileUploadSize": 3503116,
+    "width": 1024,
+    "height": 1024,
+    "isFeatured": false,
+    "filename": "assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png",
+    "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.256x256_q85_crop-%2C.jpg",
+    "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.512x512_q85_crop-%2C.jpg",
+    "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.1024x1024_q85_crop-%2C.jpg",
+    "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.2048x2048_q85_crop-%2C.jpg",
+    "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.256x256_q85.jpg",
+    "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.512x512_q85.jpg",
+    "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.1024x1024_q85.jpg",
+    "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.2048x2048_q85.jpg",
+    "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.256x256_q85_crop-%2C.jpg.webp?webp_generated=1766523825",
+    "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.512x512_q85_crop-%2C.jpg.webp?webp_generated=1766523825",
+    "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1766523825",
+    "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1766523825",
+    "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.256x256_q85.jpg.webp?webp_generated=1766523825",
+    "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.512x512_q85.jpg.webp?webp_generated=1766523825",
+    "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.1024x1024_q85.jpg.webp?webp_generated=1766523825",
+    "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.2048x2048_q85.jpg.webp?webp_generated=1766523825",
+    "thumbnailSocialUrl": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.1200x630_q85_background-black.jpg",
+    "animationUrl": null,
+    "flexFactor": null
+   }
+  ],
+  "filesSize": 68024655,
+  "showMarketingLabels": true,
+  "webpGeneratedTimestamp": 1766523825,
+  "score": 173.33333333333331,
+  "ratingsMedian": {
+   "bookmarks": 1.0,
+   "workingHours": 2.0,
+   "quality": 9.0,
+   "virtualPrice": null
+  },
+  "ratingsAverage": {
+   "bookmarks": 0.9700854700854701,
+   "workingHours": 2.0,
+   "quality": 8.666666666666666,
+   "virtualPrice": null
+  },
+  "ratingsCount": {
+   "bookmarks": 234,
+   "workingHours": 3,
+   "quality": 3,
+   "virtualPrice": 0
+  },
+  "ratingsSum": {
+   "bookmarks": 227.0,
+   "workingHours": 5.5,
+   "quality": 26.0,
+   "virtualPrice": null,
+   "score": 173.33333333333331
+  },
+  "pageBlocks": null,
+  "access": "free",
+  "accessLabel": "Free",
+  "videoLink": "",
+  "dictParameters": {
+   "sexualizedContent": false,
+   "joinBlenderkitDiscounts": true,
+   "addons": true,
+   "platforms": [
+    "windows-x64",
+    "macos-arm64",
+    "linux-x64",
+    "macos-x64",
+    "windows-arm64"
+   ],
+   "faceCount": 62,
+   "textureResolutionMax": 2048,
+   "productionLevel": "finished",
+   "procedural": false,
+   "modelStyle": "realistic",
+   "condition": "new",
+   "shaders": [
+    "principled"
+   ],
+   "uv": true,
+   "textureResolutionMin": 2048,
+   "engines": [
+    "cycles"
+   ],
+   "modifiers": [
+    "bevel",
+    "weighted normal"
+   ],
+   "materials": [
+    "Billy.LightOak",
+    "Billy.Medium",
+    "Billy.White",
+    "Billy.BlackWood",
+    "Billy.FullBlack"
+   ],
+   "rig": false,
+   "simulation": false,
+   "dimensionX": 0.8,
+   "dimensionY": 0.2802,
+   "dimensionZ": 1.0602,
+   "boundBoxMinX": -0.4035,
+   "boundBoxMinY": -0.2783,
+   "boundBoxMinZ": -0.0002,
+   "boundBoxMaxX": 0.3965,
+   "boundBoxMaxY": 0.0019,
+   "boundBoxMaxZ": 1.06,
+   "faceCountRender": 62,
+   "meshPolyType": "quad_dominant",
+   "manifold": false,
+   "objectCount": 1,
+   "nodeCount": 37,
+   "textureCount": 4,
+   "megapixels": 16,
+   "imageAltTextGen4v": "Variants of 3D modeled bookshelf in Blender, ideal for virtual architectural visualization, showcasing diverse textures."
+  },
+  "lastGltfGodotUpload": null,
+  "lastZipFileUpload": null,
+  "lastAnimatedThumbnailUpload": null,
+  "lastBlendUpload": "2024-03-17T09:19:11.497562+00:00",
+  "lastGltfUpload": null,
+  "lastPrxcUpload": null,
+  "lastVideoUpload": null,
+  "lastThumbnailUpload": "2024-03-17T09:17:51.085410+00:00",
+  "lastPhotoThumbnailUpload": null,
+  "lastResolutionUpload": "2024-03-19T15:48:23.657018+00:00",
+  "lastWireThumbnailUpload": null,
+  "canDownload": true,
+  "canDownloadError": true,
+  "parameters": [
+   {
+    "parameterType": "sexualizedContent",
+    "value": false
+   },
+   {
+    "parameterType": "joinBlenderkitDiscounts",
+    "value": true
+   },
+   {
+    "parameterType": "addons",
+    "value": true
+   },
+   {
+    "parameterType": "platforms",
+    "value": [
+     "windows-x64",
+     "macos-arm64",
+     "linux-x64",
+     "macos-x64",
+     "windows-arm64"
+    ]
+   },
+   {
+    "parameterType": "faceCount",
+    "value": 62
+   },
+   {
+    "parameterType": "textureResolutionMax",
+    "value": 2048
+   },
+   {
+    "parameterType": "productionLevel",
+    "value": "finished"
+   },
+   {
+    "parameterType": "procedural",
+    "value": false
+   },
+   {
+    "parameterType": "modelStyle",
+    "value": "realistic"
+   },
+   {
+    "parameterType": "condition",
+    "value": "new"
+   },
+   {
+    "parameterType": "shaders",
+    "value": [
+     "principled"
+    ]
+   },
+   {
+    "parameterType": "uv",
+    "value": true
+   },
+   {
+    "parameterType": "textureResolutionMin",
+    "value": 2048
+   },
+   {
+    "parameterType": "engines",
+    "value": [
+     "cycles"
+    ]
+   },
+   {
+    "parameterType": "modifiers",
+    "value": [
+     "bevel",
+     "weighted normal"
+    ]
+   },
+   {
+    "parameterType": "materials",
+    "value": [
+     "Billy.LightOak",
+     "Billy.Medium",
+     "Billy.White",
+     "Billy.BlackWood",
+     "Billy.FullBlack"
+    ]
+   },
+   {
+    "parameterType": "rig",
+    "value": false
+   },
+   {
+    "parameterType": "simulation",
+    "value": false
+   },
+   {
+    "parameterType": "dimensionX",
+    "value": 0.8
+   },
+   {
+    "parameterType": "dimensionY",
+    "value": 0.2802
+   },
+   {
+    "parameterType": "dimensionZ",
+    "value": 1.0602
+   },
+   {
+    "parameterType": "boundBoxMinX",
+    "value": -0.4035
+   },
+   {
+    "parameterType": "boundBoxMinY",
+    "value": -0.2783
+   },
+   {
+    "parameterType": "boundBoxMinZ",
+    "value": -0.0002
+   },
+   {
+    "parameterType": "boundBoxMaxX",
+    "value": 0.3965
+   },
+   {
+    "parameterType": "boundBoxMaxY",
+    "value": 0.0019
+   },
+   {
+    "parameterType": "boundBoxMaxZ",
+    "value": 1.06
+   },
+   {
+    "parameterType": "faceCountRender",
+    "value": 62
+   },
+   {
+    "parameterType": "meshPolyType",
+    "value": "quad_dominant"
+   },
+   {
+    "parameterType": "manifold",
+    "value": false
+   },
+   {
+    "parameterType": "objectCount",
+    "value": 1
+   },
+   {
+    "parameterType": "nodeCount",
+    "value": 37
+   },
+   {
+    "parameterType": "textureCount",
+    "value": 4
+   },
+   {
+    "parameterType": "megapixels",
+    "value": 16
+   },
+   {
+    "parameterType": "imageAltTextGen4v",
+    "value": "Variants of 3D modeled bookshelf in Blender, ideal for virtual architectural visualization, showcasing diverse textures."
+   }
+  ],
+  "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.256x256_q85_crop-%2C.jpg",
+  "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.512x512_q85_crop-%2C.jpg",
+  "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.1024x1024_q85_crop-%2C.jpg",
+  "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.2048x2048_q85_crop-%2C.jpg",
+  "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.256x256_q85.jpg",
+  "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.512x512_q85.jpg",
+  "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.1024x1024_q85.jpg",
+  "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.2048x2048_q85.jpg",
+  "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.256x256_q85_crop-%2C.jpg.webp?webp_generated=1766523825",
+  "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.512x512_q85_crop-%2C.jpg.webp?webp_generated=1766523825",
+  "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1766523825",
+  "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1766523825",
+  "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.256x256_q85.jpg.webp?webp_generated=1766523825",
+  "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.512x512_q85.jpg.webp?webp_generated=1766523825",
+  "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.1024x1024_q85.jpg.webp?webp_generated=1766523825",
+  "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/23bf6eb8f6ea4ab3b901e67da979c1dd/files/thumbnail_156650ce-491b-49f7-8dd8-31623d9c047f.png.2048x2048_q85.jpg.webp?webp_generated=1766523825"
+ }
+]
